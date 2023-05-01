@@ -1,0 +1,1400 @@
+"","Name","NumEdge_nobinding","NumVert_nobinding","NumEdge_w/lambda","NumVert_w/lambda","NumEdge_Induce","NumVert_Induce","VertFrac_w/lambda","VertFrac_converage"
+"100","Acyl chain remodeling of DAG and TAG",16,6,4,3,2,3,0.5,1
+"629","Degradation of TIM",229,36,34,13,12,13,0.361111111111111,1
+"633","Degradation of PER",361,39,46,14,17,14,0.358974358974359,1
+"734","Degradation of CRY",229,36,11,12,11,12,0.333333333333333,1
+"334","Role of phospholipids in phagocytosis",5,6,1,2,1,2,0.333333333333333,1
+"637","Circadian Clock pathway",609,58,80,15,24,15,0.258620689655172,1
+"353","Ubiquitination and proteolysis of phosphorylated CI",581,52,23,13,22,13,0.25,1
+"747","Dectin-1 mediated noncanonical NF-kB signaling",261,48,21,12,12,12,0.25,1
+"807","TNFR2 non-canonical NF-kB pathway",261,48,21,12,12,12,0.25,1
+"814","NIK-->noncanonical NF-kB signaling",261,48,21,12,12,12,0.25,1
+"892","CDT1 association with the CDC6:ORC:origin complex",171,46,10,11,10,11,0.239130434782609,1
+"1003","Ubiquitin-dependent degradation of Cyclin D",171,46,10,11,10,11,0.239130434782609,1
+"538","ABC-family proteins mediated transport",690,64,40,15,14,15,0.234375,1
+"930","Ubiquitin Mediated Degradation of Phosphorylated Cdc25A",173,48,10,11,10,11,0.229166666666667,1
+"931","p53-Independent DNA Damage Response",173,48,10,11,10,11,0.229166666666667,1
+"932","p53-Independent G1/S DNA damage checkpoint",173,48,10,11,10,11,0.229166666666667,1
+"893","Assembly of the pre-replicative complex",172,48,10,11,10,11,0.229166666666667,1
+"665","Interleukin-1 family signaling",322,53,20,12,11,12,0.226415094339623,1
+"1151","Interleukin-1 signaling",322,53,20,12,11,12,0.226415094339623,1
+"699","Degradation of AXIN",333,49,10,11,10,11,0.224489795918367,1
+"700","Degradation of DVL",241,49,10,11,10,11,0.224489795918367,1
+"1068","ROS sensing by NFE2L2",183,49,10,11,10,11,0.224489795918367,1
+"371","N-HH ligand not bound to PTC receptor complex",625,58,23,13,22,13,0.224137931034483,1
+"252","SCF(Skp2)-mediated degradation of p27/p21",496,53,10,11,10,11,0.207547169811321,1
+"766","Hedgehog 'on' state",672,54,20,11,20,11,0.203703703703704,1
+"1080","Regulation of RUNX2 expression and activity",384,54,10,11,10,11,0.203703703703704,1
+"933","G1/S DNA Damage Checkpoints",178,54,10,11,10,11,0.203703703703704,1
+"355","Hedgehog pathway",896,64,23,13,22,13,0.203125,1
+"52","Cellular response to hypoxia",550,55,10,11,10,11,0.2,1
+"53","Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha",550,55,10,11,10,11,0.2,1
+"1084","Regulation of RUNX3 expression and activity",368,55,10,11,10,11,0.2,1
+"1044","FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",509,57,10,11,10,11,0.192982456140351,1
+"209","APC/C:Cdc20 mediated degradation of Securin",1044,63,23,12,22,12,0.19047619047619,1
+"446","Separation of Sister Chromatids",1044,63,23,12,22,12,0.19047619047619,1
+"207","Autodegradation of Cdh1 by Cdh1:APC/C",956,63,21,12,20,12,0.19047619047619,1
+"1192","Aggrephagy",110,21,4,4,4,4,0.19047619047619,1
+"1087","Regulation of PTEN stability and activity",210,58,10,11,10,11,0.189655172413793,1
+"914","Cyclin E associated events during G1/S transition",509,59,10,11,10,11,0.186440677966102,1
+"1063","Transcriptional regulation by RUNX3",384,59,10,11,10,11,0.186440677966102,1
+"1064","Transcriptional regulation by RUNX2",409,60,10,11,10,11,0.183333333333333,1
+"1207","Regulation of HMOX1 expression and activity",245,60,10,11,10,11,0.183333333333333,1
+"276","Degradation of beta-catenin by the destruction complex",816,61,10,11,10,11,0.180327868852459,1
+"897","Mitotic Anaphase",1046,67,23,12,22,12,0.17910447761194,1
+"936","Cyclin A:Cdk2-associated events at S phase entry",517,63,10,11,10,11,0.174603174603175,1
+"312","TCF dependent signaling in response to WNT",477,63,10,11,10,11,0.174603174603175,1
+"211","Cdc20:Phospho-APC/C mediated degradation of Cyclin A",1270,69,21,12,20,12,0.173913043478261,1
+"454","Mitotic Metaphase and Anaphase",1047,69,23,12,22,12,0.173913043478261,1
+"749","CLEC7A (Dectin-1) signaling",325,69,21,12,12,12,0.173913043478261,1
+"1074","RUNX1 regulates transcription of genes involved in differentiation of HSCs",221,64,10,11,10,11,0.171875,1
+"210","APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1",2417,70,44,12,42,12,0.171428571428571,1
+"229","APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint",1298,70,21,12,20,12,0.171428571428571,1
+"220","APC/C:Cdc20 mediated degradation of mitotic proteins",1500,71,24,12,22,12,0.169014084507042,1
+"223","Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins",1551,72,24,12,22,12,0.166666666666667,1
+"901","Orc1 removal from chromatin",220,66,10,11,10,11,0.166666666666667,1
+"715","PINK1-PRKN Mediated Mitophagy",41,12,1,2,1,2,0.166666666666667,1
+"1065","Transcriptional regulation by RUNX1",236,67,10,11,10,11,0.164179104477612,1
+"758","C-type lectin receptors (CLRs)",341,77,21,12,12,12,0.155844155844156,1
+"879","PTEN Regulation",250,71,10,11,10,11,0.154929577464789,1
+"325","HS-GAG degradation",17,13,1,2,1,2,0.153846153846154,1
+"208","APC/C-mediated degradation of cell cycle proteins",3194,80,48,12,44,12,0.15,1
+"692","Regulation of mitotic cell cycle",3194,80,48,12,44,12,0.15,1
+"669","Signaling by Interleukins",367,84,20,12,11,12,0.142857142857143,1
+"904","DNA Replication Pre-Initiation",360,77,10,11,10,11,0.142857142857143,1
+"691","Mitotic G2-G2/M phases",553,78,10,11,10,11,0.141025641025641,1
+"921","G2/M Transition",553,78,10,11,10,11,0.141025641025641,1
+"69","Cytokine Signaling in Immune system",381,91,21,12,12,12,0.131868131868132,1
+"720","Drosophila signaling pathways",1633,136,103,17,36,17,0.125,1
+"1206","Cytoprotection by HMOX1",290,89,10,11,10,11,0.123595505617978,1
+"939","Gluconeogenesis",51,25,2,3,2,3,0.12,1
+"915","G1/S Transition",703,93,10,11,10,11,0.118279569892473,1
+"1212","Cellular response to chemical stress",299,98,10,11,10,11,0.112244897959184,1
+"935","Cell Cycle Checkpoints",271,98,10,11,10,11,0.112244897959184,1
+"529","Energy dependent regulation of mTOR by LKB1-AMPK",73,18,1,2,1,2,0.111111111111111,1
+"714","Mitophagy",46,18,1,2,1,2,0.111111111111111,1
+"1198","Selective autophagy",180,38,5,4,5,4,0.105263157894737,1
+"693","Mitotic G1 phase and G1/S transition",763,108,10,11,10,11,0.101851851851852,1
+"154","Macroautophagy",394,80,10,8,10,8,0.1,1
+"1178","Autophagy",394,80,10,8,10,8,0.1,1
+"8","Recognition of DNA damage by PCNA-containing replication complex",51,20,1,2,1,2,0.1,1
+"65","PI3K/AKT Signaling",369,111,10,11,10,11,0.0990990990990991,1
+"883","COPI-independent Golgi-to-ER retrograde traffic",256,32,4,3,2,3,0.09375,1
+"1230","Antigen processing: Ubiquitination & Proteasome degradation",4401,185,40,17,25,17,0.0918918918918919,1
+"987","DNA Damage Bypass",70,22,1,2,1,2,0.0909090909090909,1
+"1046","Golgi-to-ER retrograde transport",308,56,5,5,3,5,0.0892857142857143,1
+"278","Signaling by WNT",1422,130,10,11,10,11,0.0846153846153846,1
+"886","Intra-Golgi and retrograde Golgi-to-ER traffic",324,60,5,5,3,5,0.0833333333333333,1
+"882","COPI-dependent Golgi-to-ER retrograde traffic",52,24,1,2,1,2,0.0833333333333333,1
+"191","Innate Immune System",529,169,22,14,13,14,0.0828402366863905,1
+"1231","Class I MHC mediated antigen processing & presentation",4464,207,40,17,25,17,0.0821256038647343,1
+"1210","Sensory Perception",100,49,3,4,3,4,0.0816326530612245,1
+"941","Glucose metabolism",229,39,2,3,2,3,0.0769230769230769,1
+"1123","Intracellular signaling by second messengers",493,144,10,11,10,11,0.0763888888888889,1
+"70","Adaptive Immune System",4708,236,50,18,26,18,0.076271186440678,1
+"332","Fcgamma receptor (FCGR) dependent phagocytosis",40,27,1,2,1,2,0.0740740740740741,1
+"167","MTOR signalling",167,28,1,2,1,2,0.0714285714285714,1
+"162","Heparan sulfate/heparin (HS-GAG) metabolism",99,28,1,2,1,2,0.0714285714285714,1
+"899","M Phase",1250,173,23,12,22,12,0.069364161849711,1
+"192","Immune System",5021,366,52,20,28,20,0.0546448087431694,1
+"103","Glycerophospholipid biosynthesis",125,55,4,3,2,3,0.0545454545454545,1
+"494","Regulation of HSF1-mediated heat shock response",1484,56,4,3,2,3,0.0535714285714286,1
+"495","HSP90 chaperone cycle for SHRs",312,39,1,2,1,2,0.0512820512820513,1
+"400","Generic Transcription Pathway",1274,234,30,11,30,11,0.047008547008547,1
+"1061","RAB GEFs exchange GTP for GDP on RABs",142,44,2,2,1,2,0.0454545454545455,1
+"922","Cell Cycle, Mitotic",4597,266,48,12,44,12,0.0451127819548872,1
+"133","Transport of Mature mRNA derived from an Intron-Containing Transcript",1030,67,4,3,2,3,0.0447761194029851,1
+"1165","Iron uptake and transport",95,46,1,2,1,2,0.0434782608695652,1
+"164","Cell Cycle",4735,288,48,12,44,12,0.0416666666666667,1
+"149","Glycosaminoglycan metabolism",142,49,1,2,1,2,0.0408163265306122,1
+"1128","Rab regulation of trafficking",147,50,2,2,1,2,0.04,1
+"959","Transport of Mature Transcript to Cytoplasm",1465,76,6,3,2,3,0.0394736842105263,1
+"497","Cellular response to heat stress",1549,77,4,3,2,3,0.038961038961039,1
+"109","Phospholipid metabolism",332,84,4,3,2,3,0.0357142857142857,1
+"951","Carbohydrate metabolism",806,159,3,5,3,5,0.0314465408805031,1
+"307","Membrane Trafficking",836,211,7,5,4,5,0.023696682464455,1
+"773","Vesicle-mediated transport",836,211,7,5,4,5,0.023696682464455,1
+"860","Major pathway of rRNA processing in the nucleolus and cytosol",2325,87,1,2,1,2,0.0229885057471264,1
+"961","rRNA processing",2325,87,1,2,1,2,0.0229885057471264,1
+"1058","rRNA processing in the nucleus and cytosol",2325,87,1,2,1,2,0.0229885057471264,1
+"988","DNA Repair",982,151,2,2,1,2,0.0132450331125828,1
+"436","Cellular responses to stress",3486,372,16,16,13,15,0.043010752688172,0.9375
+"1097","Cellular responses to stimuli",3486,372,16,16,13,15,0.043010752688172,0.9375
+"369","WG ligand not bound to FZ receptors",170,48,12,13,11,12,0.270833333333333,0.923076923076923
+"376","Ubiquitination and degradation of phosphorylated ARM",170,48,12,13,11,12,0.270833333333333,0.923076923076923
+"363","Wingless pathway",222,53,12,13,11,12,0.245283018867925,0.923076923076923
+"905","CDK-mediated phosphorylation and removal of Cdc6",246,67,11,12,10,11,0.17910447761194,0.916666666666667
+"906","Switching of origins to a post-replicative state",338,85,11,12,10,11,0.141176470588235,0.916666666666667
+"918","Synthesis of DNA",345,93,11,12,10,11,0.129032258064516,0.916666666666667
+"923","DNA Replication",579,106,11,12,10,11,0.113207547169811,0.916666666666667
+"919","S Phase",914,113,21,12,20,11,0.106194690265487,0.916666666666667
+"145","Signaling Pathways",5070,564,25,15,21,13,0.0265957446808511,0.866666666666667
+"725","Hedgehog ligand biogenesis",220,54,14,13,10,11,0.240740740740741,0.846153846153846
+"726","Signaling by Hedgehog",1037,87,24,13,20,11,0.149425287356322,0.846153846153846
+"537","Transport of small molecules",9016,474,76,31,26,26,0.0654008438818565,0.838709677419355
+"1118","Triglyceride metabolism",26,11,7,6,4,5,0.545454545454545,0.833333333333333
+"953","Pyruvate metabolism and Citric Acid (TCA) cycle",356,55,6,6,3,5,0.109090909090909,0.833333333333333
+"982","RNA Polymerase II Transcription",2482,338,36,18,33,15,0.0532544378698225,0.833333333333333
+"991","Gene expression (Transcription)",2859,441,36,18,33,15,0.0408163265306122,0.833333333333333
+"1001","Triglyceride biosynthesis",10,9,3,5,2,4,0.555555555555556,0.8
+"1054","E3 ubiquitin ligases ubiquitinate target proteins",304,42,8,5,4,4,0.119047619047619,0.8
+"1041","Protein ubiquitination",315,47,8,5,4,4,0.106382978723404,0.8
+"89","The citric acid (TCA) cycle and respiratory electron transport",1146,138,19,14,9,11,0.101449275362319,0.785714285714286
+"90","Metabolism",25054,1009,319,90,144,70,0.089197224975223,0.777777777777778
+"952","Citric acid cycle (TCA cycle)",94,24,4,4,2,3,0.166666666666667,0.75
+"960","Processing of Capped Intron-Containing Pre-mRNA",1689,101,12,8,5,6,0.0792079207920792,0.75
+"293","Metabolism of vitamins and cofactors",140,89,4,4,3,3,0.0449438202247191,0.75
+"1156","Peroxisomal protein import",18,11,2,3,1,2,0.272727272727273,0.666666666666667
+"1175","Protein localization",22,16,2,3,1,2,0.1875,0.666666666666667
+"216","Lipoprotein metabolism",105,27,2,3,1,2,0.111111111111111,0.666666666666667
+"292","Metabolism of water-soluble vitamins and cofactors",113,77,2,3,1,2,0.038961038961039,0.666666666666667
+"127","Nucleotide metabolism",457,51,6,5,2,3,0.0980392156862745,0.6
+"739","Metabolism of lipids",4013,287,44,20,17,12,0.0696864111498258,0.6
+"958","mRNA 3'-end processing",176,48,6,7,3,4,0.145833333333333,0.571428571428571
+"981","RNA Polymerase II Transcription Termination",176,48,6,7,3,4,0.145833333333333,0.571428571428571
+"395","Biological oxidations",831,86,12,7,3,4,0.0813953488372093,0.571428571428571
+"1169","Ion transport by P-type ATPases",144,25,3,4,1,2,0.16,0.5
+"396","Phase I - Functionalization of compounds",512,46,8,6,2,3,0.130434782608696,0.5
+"1236","Ion channel transport",393,48,7,6,2,3,0.125,0.5
+"1096","Metabolism of RNA",7293,344,103,20,6,8,0.0581395348837209,0.4
+"846","Post-translational protein modification",2618,535,12,11,4,4,0.0205607476635514,0.363636363636364
+"565","Metabolism of proteins",3178,708,12,11,4,4,0.0155367231638418,0.363636363636364
+"469","FCERI mediated NF-kB activation",171,46,10,11,1,2,0.239130434782609,0.181818181818182
+"44","Downstream signaling events of B Cell Receptor (BCR)",216,47,10,11,1,2,0.234042553191489,0.181818181818182
+"45","Activation of NF-kappaB in B cells",216,47,10,11,1,2,0.234042553191489,0.181818181818182
+"327","Downstream TCR signaling",172,48,10,11,1,2,0.229166666666667,0.181818181818182
+"1235","B Cell Activation",217,49,10,11,1,2,0.224489795918367,0.181818181818182
+"324","TCR signaling",173,50,10,11,1,2,0.22,0.181818181818182
+"444","Fc epsilon receptor (FCERI) signaling",212,79,10,11,1,2,0.139240506329114,0.181818181818182
+"360","Degradation of NF-kappa-B inhibitor, CACT",98,35,11,12,1,2,0.342857142857143,0.166666666666667
+"373","Toll pathway",102,40,11,12,1,2,0.3,0.166666666666667
+"722","N-glycan trimming in the ER and Calnexin/Calreticulin cycle",24,11,2,3,0,0,0.272727272727273,0
+"510","Regulation of ornithine decarboxylase (ODC)",85,44,10,11,0,0,0.25,0
+"511","Metabolism of polyamines",91,48,10,11,0,0,0.229166666666667,0
+"464","Stimuli-sensing channels",30,13,1,2,0,0,0.153846153846154,0
+"1167","Nonsense-Mediated Decay (NMD)",3132,97,90,13,0,0,0.134020618556701,0
+"1224","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",3132,97,90,13,0,0,0.134020618556701,0
+"1000","Fatty acyl-CoA biosynthesis",134,33,2,3,0,0,0.0909090909090909,0
+"129","Transport of the SLBP independent Mature mRNA",261,34,2,3,0,0,0.0882352941176471,0
+"948","Amino acid and derivative metabolism",568,161,12,14,0,0,0.0869565217391304,0
+"206","APC/C:Cdc20 mediated degradation of Cyclin B",112,23,1,2,0,0,0.0869565217391304,0
+"130","Transport of the SLBP Dependant Mature mRNA",348,35,2,3,0,0,0.0857142857142857,0
+"228","APC-Cdc20 mediated degradation of Nek2A",94,26,1,2,0,0,0.0769230769230769,0
+"131","Transport of Mature mRNA Derived from an Intronless Transcript",464,41,2,3,0,0,0.0731707317073171,0
+"132","Transport of Mature mRNAs Derived from Intronless Transcripts",551,42,2,3,0,0,0.0714285714285714,0
+"845","Dual Incision in GG-NER",176,30,1,2,0,0,0.0666666666666667,0
+"694","SUMOylation of chromatin organization proteins",93,34,1,2,0,0,0.0588235294117647,0
+"1162","O-linked glycosylation of mucins",96,35,1,2,0,0,0.0571428571428571,0
+"847","Respiratory electron transport",54,39,1,2,0,0,0.0512820512820513,0
+"712","O-linked glycosylation",118,47,1,2,0,0,0.0425531914893617,0
+"658","Asparagine N-linked glycosylation",107,73,2,3,0,0,0.0410958904109589,0
+"844","Global Genome Nucleotide Excision Repair (GG-NER)",446,60,1,2,0,0,0.0333333333333333,0
+"1116","Fatty acid metabolism",310,90,2,3,0,0,0.0333333333333333,0
+"481","SUMO E3 ligases SUMOylate target proteins",544,71,1,2,0,0,0.028169014084507,0
+"472","SUMOylation",546,73,1,2,0,0,0.0273972602739726,0
+"151","Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",222,83,1,2,0,0,0.0240963855421687,0
+"843","Nucleotide Excision Repair",782,87,1,2,0,0,0.0229885057471264,0
+"456","Senescence-Associated Secretory Phenotype (SASP)",181,94,1,2,0,0,0.0212765957446809,0
+"457","Cellular Senescence",835,123,1,2,0,0,0.016260162601626,0
+"610","SLC-mediated transmembrane transport",2792,173,0,0,0,0,0,0
+"490","Chromatin modifying enzymes",1204,77,0,0,0,0,0,0
+"704","Chromatin organization",1204,77,0,0,0,0,0,0
+"485","HATs acetylate histones",1078,68,0,0,0,0,0,0
+"1092","Neddylation",1044,138,0,0,0,0,0,0
+"977","RNA Polymerase II Promoter Escape",880,49,0,0,0,0,0,0
+"1011","RNA Polymerase II Transcription Initiation And Promoter Clearance",880,49,0,0,0,0,0,0
+"606","Transport of bile salts and organic acids, metal ions and amine compounds",833,52,0,0,0,0,0,0
+"32","Neuronal System",775,97,0,0,0,0,0,0
+"31","Transmission across Chemical Synapses",742,76,0,0,0,0,0,0
+"517","Signaling by GPCR",721,121,0,0,0,0,0,0
+"541","GPCR downstream signalling",697,121,0,0,0,0,0,0
+"455","Oxidative Stress Induced Senescence",649,94,0,0,0,0,0,0
+"1102","Metabolism of steroids",638,72,0,0,0,0,0,0
+"608","Transport of inorganic cations/anions and amino acids/oligopeptides",571,71,0,0,0,0,0,0
+"852","Transcription-Coupled Nucleotide Excision Repair (TC-NER)",450,56,0,0,0,0,0,0
+"280","Metabolism of steroid hormones",447,37,0,0,0,0,0,0
+"29","Neurotransmitter release cycle",443,37,0,0,0,0,0,0
+"816","MAPK family signaling cascades",425,99,0,0,0,0,0,0
+"818","ERK1/ERK2 pathway",418,91,0,0,0,0,0,0
+"810","RAF/MAP kinase cascade",416,90,0,0,0,0,0,0
+"752","Hedgehog 'off' state",399,73,0,0,0,0,0,0
+"266","Estrogen biosynthesis",364,33,0,0,0,0,0,0
+"588","G alpha (q) signalling events",364,46,0,0,0,0,0,0
+"822","Deubiquitination",363,69,0,0,0,0,0,0
+"318","Metabolism of Angiotensinogen to Angiotensins",352,68,0,0,0,0,0,0
+"470","Peptide hormone metabolism",352,68,0,0,0,0,0,0
+"698","SUMOylation of DNA replication proteins",348,37,0,0,0,0,0,0
+"825","Ub-specific processing proteases",348,65,0,0,0,0,0,0
+"1048","Clathrin-mediated endocytosis",325,94,0,0,0,0,0,0
+"750","Degradation of GLI1 by the proteasome",285,52,0,0,0,0,0,0
+"374","N-HH ligand bound to PTC receptor complex",270,56,0,0,0,0,0,0
+"1126","Signaling by Receptor Tyrosine Kinases",255,96,0,0,0,0,0,0
+"840","DNA Damage Recognition in GG-NER",248,33,0,0,0,0,0,0
+"853","Dual incision in TC-NER",240,53,0,0,0,0,0,0
+"67","Developmental Biology",232,97,0,0,0,0,0,0
+"605","Axon guidance",224,92,0,0,0,0,0,0
+"1202","Nervous system development",224,92,0,0,0,0,0,0
+"516","Transcriptional Regulation by TP53",223,139,0,0,0,0,0,0
+"597","G alpha (i) signalling events",221,68,0,0,0,0,0,0
+"107","Inositol phosphate metabolism",218,43,0,0,0,0,0,0
+"811","MAP2K and MAPK activation",218,26,0,0,0,0,0,0
+"540","Beta-catenin independent WNT signaling",209,85,0,0,0,0,0,0
+"1047","Cargo recognition for clathrin-mediated endocytosis",208,56,0,0,0,0,0,0
+"751","GLI3 is processed to GLI3R by the proteasome",207,59,0,0,0,0,0,0
+"422","Nuclear CI is degraded",206,38,0,0,0,0,0,0
+"397","Epigenetic regulation of gene expression",201,70,0,0,0,0,0,0
+"616","SIRT1 negatively regulates rRNA expression",201,70,0,0,0,0,0,0
+"719","Negative epigenetic regulation of rRNA expression",201,70,0,0,0,0,0,0
+"19","Opioid Signalling",194,49,0,0,0,0,0,0
+"903","Activation of the pre-replicative complex",188,30,0,0,0,0,0,0
+"108","PI Metabolism",187,28,0,0,0,0,0,0
+"275","Signaling by Rho GTPases",187,84,0,0,0,0,0,0
+"972","Translation",187,100,0,0,0,0,0,0
+"1214","Signaling by Rho GTPases, Miro GTPases and RHOBTB3",187,84,0,0,0,0,0,0
+"573","Muscle contraction",181,43,0,0,0,0,0,0
+"741","Cardiac conduction",181,43,0,0,0,0,0,0
+"1125","Signaling by Nuclear Receptors",181,46,0,0,0,0,0,0
+"401","Dopamine Neurotransmitter Release Cycle",180,18,0,0,0,0,0,0
+"393","Gene Silencing by RNA",176,34,0,0,0,0,0,0
+"745","Transcriptional regulation by small RNAs",174,32,0,0,0,0,0,0
+"894","Mitotic Prophase",168,89,0,0,0,0,0,0
+"733","Mitochondrial translation",162,83,0,0,0,0,0,0
+"737","Mitochondrial translation termination",162,83,0,0,0,0,0,0
+"254","Cellular hexose transport",160,24,0,0,0,0,0,0
+"586","PCP/CE pathway",159,63,0,0,0,0,0,0
+"26","G-protein mediated events",152,35,0,0,0,0,0,0
+"827","Metalloprotease DUBs",141,28,0,0,0,0,0,0
+"937","Glycolysis",138,25,0,0,0,0,0,0
+"1132","RHO GTPase cycle",137,51,0,0,0,0,0,0
+"854","Gap-filling DNA repair synthesis and ligation in TC-NER",135,48,0,0,0,0,0,0
+"940","Pyruvate metabolism",132,29,0,0,0,0,0,0
+"767","Regulation of TP53 Activity",129,86,0,0,0,0,0,0
+"880","RNA polymerase II transcribes snRNA genes",128,66,0,0,0,0,0,0
+"486","RMTs methylate histone arginines",126,29,0,0,0,0,0,0
+"171","Synthesis of PIPs at the plasma membrane",125,18,0,0,0,0,0,0
+"22","Calmodulin induced events",124,33,0,0,0,0,0,0
+"24","Ca-dependent events",124,33,0,0,0,0,0,0
+"25","CaM pathway",124,33,0,0,0,0,0,0
+"27","PLC beta mediated events",124,33,0,0,0,0,0,0
+"110","DAG and IP3 signaling",124,33,0,0,0,0,0,0
+"247","Synthesis of IP3 and IP4 in the cytosol",119,22,0,0,0,0,0,0
+"1","Apoptosis",118,60,0,0,0,0,0,0
+"724","Programmed Cell Death",118,60,0,0,0,0,0,0
+"1066","GABA synthesis, release, reuptake and degradation",113,23,0,0,0,0,0,0
+"1002","Apoptotic execution phase",110,56,0,0,0,0,0,0
+"2","Hemostasis",109,72,0,0,0,0,0,0
+"226","Signaling by EGFR",109,20,0,0,0,0,0,0
+"237","Serotonin Neurotransmitter Release Cycle",108,15,0,0,0,0,0,0
+"480","SUMOylation of DNA damage response and repair proteins",108,46,0,0,0,0,0,0
+"241","EGFR downregulation",105,17,0,0,0,0,0,0
+"697","Asymmetric localization of PCP proteins",105,50,0,0,0,0,0,0
+"828","DNA Double-Strand Break Repair",105,58,0,0,0,0,0,0
+"304","Negative regulation of the PI3K/AKT network",102,27,0,0,0,0,0,0
+"730","Signaling by Retinoic Acid",99,24,0,0,0,0,0,0
+"832","Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",98,51,0,0,0,0,0,0
+"836","DNA Double Strand Break Response",98,51,0,0,0,0,0,0
+"437","Condensation of Prophase Chromosomes",96,50,0,0,0,0,0,0
+"926","G2/M Checkpoints",96,50,0,0,0,0,0,0
+"347","Assembly of the CI containing complexes",91,18,0,0,0,0,0,0
+"348","Phosphorylation of CI",91,18,0,0,0,0,0,0
+"386","Glutamate Neurotransmitter Release Cycle",91,13,0,0,0,0,0,0
+"809","RAF activation",91,25,0,0,0,0,0,0
+"765","TP53 Regulates Metabolic Genes",90,54,0,0,0,0,0,0
+"584","SUMOylation of SUMOylation proteins",88,31,0,0,0,0,0,0
+"680","Regulation of mRNA stability by proteins that bind AU-rich elements",87,71,0,0,0,0,0,0
+"617","Sphingolipid metabolism",85,43,0,0,0,0,0,0
+"1004","Synthesis of very long-chain fatty acyl-CoAs",85,21,0,0,0,0,0,0
+"238","Norepinephrine Neurotransmitter Release Cycle",84,14,0,0,0,0,0,0
+"434","Visual phototransduction",83,46,0,0,0,0,0,0
+"1073","ESR-mediated signaling",82,22,0,0,0,0,0,0
+"1129","Extra-nuclear estrogen signaling",82,22,0,0,0,0,0,0
+"534","Regulation of IGF Activity by IGFBP",81,82,0,0,0,0,0,0
+"1101","Post-translational protein phosphorylation",81,82,0,0,0,0,0,0
+"179","mTORC1-mediated signalling",80,20,0,0,0,0,0,0
+"732","RA biosynthesis pathway",79,16,0,0,0,0,0,0
+"82","Apoptosis induced DNA fragmentation",77,30,0,0,0,0,0,0
+"461","Acetylcholine Neurotransmitter Release Cycle",77,15,0,0,0,0,0,0
+"851","Formation of TC-NER Pre-Incision Complex",75,28,0,0,0,0,0,0
+"513","Amino acid transport across the plasma membrane",74,17,0,0,0,0,0,0
+"916","Cyclin D associated events in G1",73,27,0,0,0,0,0,0
+"917","G1 Phase",73,27,0,0,0,0,0,0
+"705","Interconversion of nucleotide di- and triphosphates",71,13,0,0,0,0,0,0
+"1008","Platelet activation, signaling and aggregation",69,37,0,0,0,0,0,0
+"217","Activation of ATR in response to replication stress",68,36,0,0,0,0,0,0
+"471","Nuclear Envelope Breakdown",68,35,0,0,0,0,0,0
+"521","Semaphorin interactions",68,19,0,0,0,0,0,0
+"227","Chondroitin sulfate/dermatan sulfate metabolism",66,27,0,0,0,0,0,0
+"520","Netrin-1 signaling",65,23,0,0,0,0,0,0
+"424","Activation of SMO",63,19,0,0,0,0,0,0
+"769","Activation of SMO",63,19,0,0,0,0,0,0
+"746","Ion homeostasis",62,25,0,0,0,0,0,0
+"1194","RAS processing",62,25,0,0,0,0,0,0
+"499","HSF1-dependent transactivation",61,28,0,0,0,0,0,0
+"872","Regulation of TP53 Activity through Phosphorylation",61,61,0,0,0,0,0,0
+"94","Extracellular matrix organization",60,31,0,0,0,0,0,0
+"350","Phosphorylation of SMO",60,19,0,0,0,0,0,0
+"622","Deadenylation-dependent mRNA decay",60,25,0,0,0,0,0,0
+"888","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",60,23,0,0,0,0,0,0
+"1209","Regulation of BACH1 activity",60,13,0,0,0,0,0,0
+"634","Phosphorylation of PER and TIM",59,20,0,0,0,0,0,0
+"492","Nuclear Pore Complex (NPC) Disassembly",58,31,0,0,0,0,0,0
+"677","AUF1 (hnRNP D0) binds and destabilizes mRNA",58,55,0,0,0,0,0,0
+"1190","Amino acids regulate mTORC1",56,30,0,0,0,0,0,0
+"1211","Cellular response to starvation",56,30,0,0,0,0,0,0
+"508","Planar Cell Polarity pathway",53,17,0,0,0,0,0,0
+"684","Activation of Downstream Effectors",53,17,0,0,0,0,0,0
+"114","Phase II - Conjugation of compounds",52,31,0,0,0,0,0,0
+"176","Sphingolipid de novo biosynthesis",52,25,0,0,0,0,0,0
+"378","WG ligand bound to FZ receptors",52,14,0,0,0,0,0,0
+"181","Complement cascade",51,16,0,0,0,0,0,0
+"221","Phosphorylation of the APC/C",51,20,0,0,0,0,0,0
+"375","Imd pathway",51,15,0,0,0,0,0,0
+"1229","Regulation of Complement cascade",51,16,0,0,0,0,0,0
+"277","RHO GTPase Effectors",50,36,0,0,0,0,0,0
+"585","Ca2+ pathway",50,22,0,0,0,0,0,0
+"647","Na+/Cl- dependent neurotransmitter transporters",50,27,0,0,0,0,0,0
+"874","Regulation of TP53 Activity through Acetylation",50,17,0,0,0,0,0,0
+"368","Recruitment of the 'destruction complex' to the receptor complex, the degradation of AXN and release of ARM",48,14,0,0,0,0,0,0
+"711","WNT5A-dependent internalization of FZD2, FZD5 and ROR2",48,10,0,0,0,0,0,0
+"1127","Signaling by TGFB family members",47,22,0,0,0,0,0,0
+"656","Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",46,38,0,0,0,0,0,0
+"685","RHO1 signalling",46,14,0,0,0,0,0,0
+"75","Potassium Channels",42,22,0,0,0,0,0,0
+"294","A tetrasaccharide linker sequence is required for GAG synthesis",42,13,0,0,0,0,0,0
+"509","Activation of non-muscle Myosin II",42,13,0,0,0,0,0,0
+"579","CRMPs in Sema3A signaling",42,12,0,0,0,0,0,0
+"50","Signaling by ERBB2",41,19,0,0,0,0,0,0
+"284","Metabolism of folate and pterines",41,20,0,0,0,0,0,0
+"550","SUMOylation of transcription cofactors",41,16,0,0,0,0,0,0
+"93","Degradation of the extracellular matrix",40,21,0,0,0,0,0,0
+"118","Glutathione conjugation",40,20,0,0,0,0,0,0
+"200","Signaling by TGF-beta Receptor Complex",40,20,0,0,0,0,0,0
+"323","HS-GAG biosynthesis",40,12,0,0,0,0,0,0
+"1136","RAC1 GTPase cycle",40,41,0,0,0,0,0,0
+"245","Synthesis of IP2, IP, and Ins in the cytosol",39,15,0,0,0,0,0,0
+"945","Branched-chain amino acid catabolism",39,15,0,0,0,0,0,0
+"243","Organelle biogenesis and maintenance",38,18,0,0,0,0,0,0
+"1135","CDC42 GTPase cycle",38,39,0,0,0,0,0,0
+"102","Synthesis of PC",36,20,0,0,0,0,0,0
+"599","DCC mediated attractive signaling",36,11,0,0,0,0,0,0
+"627","Vasopressin regulates renal water homeostasis via Aquaporins",36,10,0,0,0,0,0,0
+"653","Aquaporin-mediated transport",36,10,0,0,0,0,0,0
+"728","MMR",36,9,0,0,0,0,0,0
+"729","Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)",36,9,0,0,0,0,0,0
+"753","Cilium Assembly",36,15,0,0,0,0,0,0
+"754","VxPx cargo-targeting to cilium",36,15,0,0,0,0,0,0
+"755","Cargo trafficking to the periciliary membrane",36,15,0,0,0,0,0,0
+"920","Cyclin A/B1/B2 associated events during G2/M transition",36,18,0,0,0,0,0,0
+"1099","Nucleotide biosynthesis",36,12,0,0,0,0,0,0
+"333","Regulation of actin dynamics for phagocytic cup formation",35,21,0,0,0,0,0,0
+"625","mRNA decay by 5' to 3' exoribonuclease",35,12,0,0,0,0,0,0
+"1049","Downregulation of ERBB2 signaling",35,11,0,0,0,0,0,0
+"1098","Nucleotide catabolism",35,16,0,0,0,0,0,0
+"288","Nicotinate metabolism",34,33,0,0,0,0,0,0
+"522","L1CAM interactions",34,15,0,0,0,0,0,0
+"1119","RHOA GTPase cycle",34,35,0,0,0,0,0,0
+"158","Integration of energy metabolism",33,24,0,0,0,0,0,0
+"895","Mitotic Prometaphase",33,18,0,0,0,0,0,0
+"1085","Regulation of PTEN gene transcription",33,12,0,0,0,0,0,0
+"1172","Transport to the Golgi and subsequent modification",33,20,0,0,0,0,0,0
+"96","O2/CO2 exchange in erythrocytes",32,8,0,0,0,0,0,0
+"16","Apoptotic cleavage of cellular proteins",31,25,0,0,0,0,0,0
+"54","Signaling by ERBB4",31,15,0,0,0,0,0,0
+"696","SUMOylation of RNA binding proteins",31,12,0,0,0,0,0,0
+"173","Synthesis of PIPs at the early endosome membrane",30,9,0,0,0,0,0,0
+"340","Regulation of pyruvate dehydrogenase (PDH) complex",30,10,0,0,0,0,0,0
+"515","Integrin signaling",30,16,0,0,0,0,0,0
+"548","Glyoxylate metabolism and glycine degradation",30,24,0,0,0,0,0,0
+"561","Peroxisomal lipid metabolism",30,15,0,0,0,0,0,0
+"1010","Platelet Aggregation (Plug Formation)",30,16,0,0,0,0,0,0
+"306","ER to Golgi Anterograde Transport",29,15,0,0,0,0,0,0
+"339","COPII-mediated vesicle transport",29,15,0,0,0,0,0,0
+"452","The phototransduction cascade",29,26,0,0,0,0,0,0
+"1020","Mitochondrial Fatty Acid Beta-Oxidation",29,14,0,0,0,0,0,0
+"258","Signaling by FGFR",28,20,0,0,0,0,0,0
+"273","Bile acid and bile salt metabolism",28,16,0,0,0,0,0,0
+"274","Signaling by VEGF",28,27,0,0,0,0,0,0
+"489","WNT ligand biogenesis and trafficking",28,9,0,0,0,0,0,0
+"526","DSCAM interactions",28,11,0,0,0,0,0,0
+"642","Recycling pathway of L1",28,9,0,0,0,0,0,0
+"646","VEGFA-VEGFR2 Pathway",28,27,0,0,0,0,0,0
+"804","RHO GTPases Activate WASPs and WAVEs",28,17,0,0,0,0,0,0
+"924","G2/M DNA damage checkpoint",28,29,0,0,0,0,0,0
+"1088","Mitochondrial calcium ion transport",28,12,0,0,0,0,0,0
+"429","Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer",27,14,0,0,0,0,0,0
+"611","Metal ion SLC transporters",27,10,0,0,0,0,0,0
+"1114","Glutamate and glutamine metabolism",27,10,0,0,0,0,0,0
+"38","Formation of the Early Elongation Complex",26,27,0,0,0,0,0,0
+"170","Toll Like Receptor 4 (TLR4) Cascade",26,20,0,0,0,0,0,0
+"175","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",26,20,0,0,0,0,0,0
+"178","MyD88-independent TLR4 cascade",26,20,0,0,0,0,0,0
+"184","Toll Like Receptor 9 (TLR9) Cascade",26,20,0,0,0,0,0,0
+"185","Toll Like Receptor 10 (TLR10) Cascade",26,20,0,0,0,0,0,0
+"186","Toll Like Receptor 3 (TLR3) Cascade",26,20,0,0,0,0,0,0
+"187","Toll Like Receptor 5 (TLR5) Cascade",26,20,0,0,0,0,0,0
+"188","Toll Like Receptor TLR1:TLR2 Cascade",26,20,0,0,0,0,0,0
+"189","Toll Like Receptor 7/8 (TLR7/8) Cascade",26,20,0,0,0,0,0,0
+"190","Toll Like Receptor TLR6:TLR2 Cascade",26,20,0,0,0,0,0,0
+"195","Toll-like Receptor Cascades",26,20,0,0,0,0,0,0
+"198","Adenylate cyclase activating pathway",26,15,0,0,0,0,0,0
+"240","Toll Like Receptor 2 (TLR2) Cascade",26,20,0,0,0,0,0,0
+"295","Nicotinamide salvaging",26,28,0,0,0,0,0,0
+"372","Activation of the IkappaB kinase complex, KEY:IRD5 dimer:KEY",26,10,0,0,0,0,0,0
+"661","Synthesis of substrates in N-glycan biosythesis",26,27,0,0,0,0,0,0
+"667","Interleukin-17 signaling",26,20,0,0,0,0,0,0
+"672","MAP kinase activation",26,20,0,0,0,0,0,0
+"797","Signaling by FGFR3",26,19,0,0,0,0,0,0
+"1007","RNA Polymerase II Transcription Elongation",26,27,0,0,0,0,0,0
+"1170","TRIF(TICAM1)-mediated TLR4 signaling",26,20,0,0,0,0,0,0
+"1217","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",26,20,0,0,0,0,0,0
+"1218","MyD88 dependent cascade initiated on endosome",26,20,0,0,0,0,0,0
+"1222","MyD88 cascade initiated on plasma membrane",26,20,0,0,0,0,0,0
+"377","Catalytic processing of the nuclear factor, REL",25,7,0,0,0,0,0,0
+"587","SUMOylation of intracellular receptors",25,11,0,0,0,0,0,0
+"604","Regulation of insulin secretion",25,17,0,0,0,0,0,0
+"679","HuR (ELAVL1) binds and stabilizes mRNA",25,11,0,0,0,0,0,0
+"795","Signaling by FGFR1",25,16,0,0,0,0,0,0
+"798","Signaling by FGFR4",25,16,0,0,0,0,0,0
+"1094","RUNX3 regulates p14-ARF",25,11,0,0,0,0,0,0
+"180","Signaling by NTRKs",24,22,0,0,0,0,0,0
+"251","Signaling by NTRK1 (TRKA)",24,22,0,0,0,0,0,0
+"421","Abacavir transport and metabolism",24,25,0,0,0,0,0,0
+"443","The canonical retinoid cycle in rods (twilight vision)",24,14,0,0,0,0,0,0
+"518","Class A/1 (Rhodopsin-like receptors)",24,7,0,0,0,0,0,0
+"524","Peptide ligand-binding receptors",24,7,0,0,0,0,0,0
+"623","Deadenylation of mRNA",24,11,0,0,0,0,0,0
+"636","Dephosphorylation of PER",24,9,0,0,0,0,0,0
+"708","GPCR ligand binding",24,7,0,0,0,0,0,0
+"1199","Pexophagy",24,6,0,0,0,0,0,0
+"12","Insulin signaling pathway",23,14,0,0,0,0,0,0
+"14","Insulin receptor mediated signaling",23,14,0,0,0,0,0,0
+"177","Glycosphingolipid metabolism",23,16,0,0,0,0,0,0
+"465","EPH-Ephrin signaling",23,14,0,0,0,0,0,0
+"796","Signaling by FGFR2",23,15,0,0,0,0,0,0
+"1121","Glycogen metabolism",23,22,0,0,0,0,0,0
+"1233","Factors involved in megakaryocyte development and platelet production",23,24,0,0,0,0,0,0
+"49","ROS and RNS production in phagocytes",22,23,0,0,0,0,0,0
+"404","Arachidonic acid metabolism",22,12,0,0,0,0,0,0
+"467","FCERI mediated MAPK activation",22,13,0,0,0,0,0,0
+"523","NCAM signaling for neurite out-growth",22,24,0,0,0,0,0,0
+"589","G alpha (12/13) signalling events",22,21,0,0,0,0,0,0
+"713","O-glycosylation of TSR domain-containing proteins",22,13,0,0,0,0,0,0
+"841","Formation of Incision Complex in GG-NER",22,23,0,0,0,0,0,0
+"949","Pentose phosphate pathway",22,11,0,0,0,0,0,0
+"1086","Regulation of PTEN localization",22,8,0,0,0,0,0,0
+"1090","Processing of SMDT1",22,9,0,0,0,0,0,0
+"1137","RHOD GTPase cycle",22,12,0,0,0,0,0,0
+"250","Signaling by PDGF",21,10,0,0,0,0,0,0
+"272","p75 NTR receptor-mediated signalling",21,22,0,0,0,0,0,0
+"450","Resolution of Sister Chromatid Cohesion",21,10,0,0,0,0,0,0
+"453","Inactivation, recovery and regulation of the phototransduction cascade",21,23,0,0,0,0,0,0
+"671","MAPK targets/ Nuclear events mediated by MAP kinases",21,18,0,0,0,0,0,0
+"791","Negative regulation of FGFR1 signaling",21,12,0,0,0,0,0,0
+"794","Negative regulation of FGFR4 signaling",21,12,0,0,0,0,0,0
+"986","Death Receptor Signalling",21,22,0,0,0,0,0,0
+"1062","Protein methylation",21,24,0,0,0,0,0,0
+"1157","Blood group systems biosynthesis",21,10,0,0,0,0,0,0
+"1159","Lewis blood group biosynthesis",21,10,0,0,0,0,0,0
+"71","Spry regulation of FGF signaling",20,11,0,0,0,0,0,0
+"270","NRAGE signals death through JNK",20,21,0,0,0,0,0,0
+"341","alpha-linolenic (omega3) and linoleic (omega6) acid metabolism",20,22,0,0,0,0,0,0
+"343","alpha-linolenic acid (ALA) metabolism",20,22,0,0,0,0,0,0
+"345","Cell death signalling via NRAGE, NRIF and NADE",20,21,0,0,0,0,0,0
+"403","Synthesis of Leukotrienes (LT) and Eoxins (EX)",20,9,0,0,0,0,0,0
+"528","Deactivation of the beta-catenin transactivating complex",20,9,0,0,0,0,0,0
+"641","Zinc transporters",20,9,0,0,0,0,0,0
+"792","Negative regulation of FGFR2 signaling",20,11,0,0,0,0,0,0
+"793","Negative regulation of FGFR3 signaling",20,11,0,0,0,0,0,0
+"7","Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template",19,14,0,0,0,0,0,0
+"9","Translesion Synthesis by POLH",19,14,0,0,0,0,0,0
+"80","Mitochondrial iron-sulfur cluster biogenesis",19,10,0,0,0,0,0,0
+"213","Glutathione synthesis and recycling",19,8,0,0,0,0,0,0
+"468","FCERI mediated Ca+2 mobilization",19,20,0,0,0,0,0,0
+"748","CLEC7A (Dectin-1) induces NFAT activation",19,20,0,0,0,0,0,0
+"938","Glycogen breakdown (glycogenolysis)",19,20,0,0,0,0,0,0
+"64","Downregulation of ERBB4 signaling",18,6,0,0,0,0,0,0
+"134","Activation of Matrix Metalloproteinases",18,9,0,0,0,0,0,0
+"135","Recycling of bile acids and salts",18,9,0,0,0,0,0,0
+"174","Synthesis of PIPs at the late endosome membrane",18,6,0,0,0,0,0,0
+"408","Activated IkappaB kinase (IKK) complex, Phospho IRD5:KEY dimer, phosphorylates REL in the PGN:PGRP-LC/LE receptor 'signalling complex'",18,7,0,0,0,0,0,0
+"670","Other interleukin signaling",18,9,0,0,0,0,0,0
+"740","Phase 4 - resting membrane potential",18,10,0,0,0,0,0,0
+"1134","RHOC GTPase cycle",18,19,0,0,0,0,0,0
+"79","Downregulation of ERBB2:ERBB3 signaling",17,7,0,0,0,0,0,0
+"161","Keratan sulfate/keratin metabolism",17,14,0,0,0,0,0,0
+"172","Synthesis of PIPs at the Golgi membrane",17,8,0,0,0,0,0,0
+"342","Linoleic acid (LA) metabolism",17,18,0,0,0,0,0,0
+"582","Sema4D in semaphorin signaling",17,9,0,0,0,0,0,0
+"590","Sema4D induced cell migration and growth-cone collapse",17,9,0,0,0,0,0,0
+"764","RHO GTPases activate PAKs",17,15,0,0,0,0,0,0
+"1019","mitochondrial fatty acid beta-oxidation of saturated fatty acids",17,8,0,0,0,0,0,0
+"1133","RHOB GTPase cycle",17,18,0,0,0,0,0,0
+"120","Fibronectin matrix formation",16,6,0,0,0,0,0,0
+"255","Porphyrin metabolism",16,14,0,0,0,0,0,0
+"321","Chondroitin sulfate biosynthesis",16,10,0,0,0,0,0,0
+"738","Aflatoxin activation and detoxification",16,8,0,0,0,0,0,0
+"759","CD209 (DC-SIGN) signaling",16,11,0,0,0,0,0,0
+"885","Retrograde transport at the Trans-Golgi-Network",16,8,0,0,0,0,0,0
+"23","Cam-PDE 1 activation",15,16,0,0,0,0,0,0
+"425","DAP12 interactions",15,8,0,0,0,0,0,0
+"439","DAP12 signaling",15,8,0,0,0,0,0,0
+"817","Surfactant metabolism",15,16,0,0,0,0,0,0
+"962","Eukaryotic Translation Initiation",15,8,0,0,0,0,0,0
+"969","Recycling of eIF2:GDP",15,8,0,0,0,0,0,0
+"970","Cap-dependent Translation Initiation",15,8,0,0,0,0,0,0
+"979","Purine ribonucleoside monophosphate biosynthesis",15,9,0,0,0,0,0,0
+"1036","Signaling by PTK6",15,12,0,0,0,0,0,0
+"1083","RUNX3 regulates CDKN1A transcription",15,8,0,0,0,0,0,0
+"1124","Signaling by Non-Receptor Tyrosine Kinases",15,12,0,0,0,0,0,0
+"144","Sulfur amino acid metabolism",14,14,0,0,0,0,0,0
+"163","Gamma carboxylation, hypusine formation and arylsulfatase activation",14,15,0,0,0,0,0,0
+"300","Nuclear Events (kinase and transcription factor activation)",14,14,0,0,0,0,0,0
+"431","SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription",14,8,0,0,0,0,0,0
+"549","Beta-oxidation of pristanoyl-CoA",14,10,0,0,0,0,0,0
+"609","Transport of vitamins, nucleosides, and related molecules",14,4,0,0,0,0,0,0
+"716","VEGFR2 mediated vascular permeability",14,16,0,0,0,0,0,0
+"873","Regulation of TP53 Degradation",14,6,0,0,0,0,0,0
+"877","Regulation of TP53 Expression and Degradation",14,6,0,0,0,0,0,0
+"992","Ketone body metabolism",14,6,0,0,0,0,0,0
+"1030","Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane",14,4,0,0,0,0,0,0
+"427","TGF-beta receptor signaling activates SMADs",13,11,0,0,0,0,0,0
+"430","Downregulation of SMAD2/3:SMAD4 transcriptional activity",13,8,0,0,0,0,0,0
+"535","Glucagon-like Peptide-1 (GLP1) regulates insulin secretion",13,9,0,0,0,0,0,0
+"774","Lactose synthesis",13,14,0,0,0,0,0,0
+"994","Purine catabolism",13,7,0,0,0,0,0,0
+"104","Synthesis of PE",12,7,0,0,0,0,0,0
+"140","ZBP1(DAI) mediated induction of type I IFNs",12,5,0,0,0,0,0,0
+"236","RIP-mediated NFkB activation via ZBP1",12,5,0,0,0,0,0,0
+"242","Cytosolic sensors of pathogen-associated DNA",12,5,0,0,0,0,0,0
+"301","ERK/MAPK targets",12,12,0,0,0,0,0,0
+"319","Keratan sulfate biosynthesis",12,8,0,0,0,0,0,0
+"482","DEx/H-box helicases activate type I IFN and inflammatory cytokines production",12,5,0,0,0,0,0,0
+"571","Ephrin signaling",12,8,0,0,0,0,0,0
+"580","Adrenaline,noradrenaline inhibits insulin secretion",12,8,0,0,0,0,0,0
+"771","Fructose metabolism",12,7,0,0,0,0,0,0
+"308","trans-Golgi Network Vesicle Budding",11,8,0,0,0,0,0,0
+"330","Cell surface interactions at the vascular wall",11,12,0,0,0,0,0,0
+"392","Tie2 Signaling",11,12,0,0,0,0,0,0
+"527","Signaling by ROBO receptors",11,6,0,0,0,0,0,0
+"717","VEGFR2 mediated cell proliferation",11,8,0,0,0,0,0,0
+"947","Tryptophan catabolism",11,12,0,0,0,0,0,0
+"1053","Synthesis of active ubiquitin: roles of E1 and E2 enzymes",11,8,0,0,0,0,0,0
+"1105","Phenylalanine and tyrosine metabolism",11,10,0,0,0,0,0,0
+"1131","Regulation of expression of SLITs and ROBOs",11,6,0,0,0,0,0,0
+"63","Nuclear signaling by ERBB4",10,6,0,0,0,0,0,0
+"263","Cholesterol biosynthesis",10,11,0,0,0,0,0,0
+"264","Synthesis of bile acids and bile salts",10,7,0,0,0,0,0,0
+"426","Downregulation of TGF-beta receptor signaling",10,7,0,0,0,0,0,0
+"451","Condensation of Prometaphase Chromosomes",10,7,0,0,0,0,0,0
+"645","Depolymerisation of the Nuclear Lamina",10,6,0,0,0,0,0,0
+"1100","Nucleotide salvage",10,9,0,0,0,0,0,0
+"42","GPVI-mediated activation cascade",9,4,0,0,0,0,0,0
+"219","Regulation of APC/C activators between G1/S and early anaphase",9,6,0,0,0,0,0,0
+"222","Phosphorylation of Emi1",9,6,0,0,0,0,0,0
+"244","Synthesis of pyrophosphates in the cytosol",9,4,0,0,0,0,0,0
+"256","Heme biosynthesis",9,11,0,0,0,0,0,0
+"267","Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol",9,7,0,0,0,0,0,0
+"309","Carnitine metabolism",9,6,0,0,0,0,0,0
+"315","G-protein activation",9,10,0,0,0,0,0,0
+"566","Rap1 signalling",9,8,0,0,0,0,0,0
+"577","Sema3A PAK dependent Axon repulsion",9,10,0,0,0,0,0,0
+"946","Lysine catabolism",9,9,0,0,0,0,0,0
+"1017","Synthesis of Ketone Bodies",9,5,0,0,0,0,0,0
+"1039","PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases",9,8,0,0,0,0,0,0
+"1069","Regulation of RUNX1 Expression and Activity",9,6,0,0,0,0,0,0
+"1106","Aspartate and asparagine metabolism",9,5,0,0,0,0,0,0
+"1158","RHOF GTPase cycle",9,10,0,0,0,0,0,0
+"106","Synthesis of PIPs at the ER membrane",8,5,0,0,0,0,0,0
+"112","Signaling by Activin",8,7,0,0,0,0,0,0
+"249","Downstream signal transduction",8,9,0,0,0,0,0,0
+"290","Vitamin C (ascorbate) metabolism",8,6,0,0,0,0,0,0
+"298","AKT phosphorylates targets in the cytosol",8,9,0,0,0,0,0,0
+"329","ERKs are inactivated",8,8,0,0,0,0,0,0
+"491","Detoxification of Reactive Oxygen Species",8,9,0,0,0,0,0,0
+"569","EPHB-mediated forward signaling",8,5,0,0,0,0,0,0
+"600","Ligand-independent caspase activation via DCC",8,5,0,0,0,0,0,0
+"613","Sodium/Proton exchangers",8,3,0,0,0,0,0,0
+"723","Caspase activation via extrinsic apoptotic signalling pathway",8,5,0,0,0,0,0,0
+"813","Negative regulation of MAPK pathway",8,9,0,0,0,0,0,0
+"973","Pyrimidine salvage",8,6,0,0,0,0,0,0
+"974","Pyrimidine catabolism",8,6,0,0,0,0,0,0
+"1103","Intestinal absorption",8,5,0,0,0,0,0,0
+"1107","Digestion and absorption",8,5,0,0,0,0,0,0
+"1117","Metabolism of cofactors",8,8,0,0,0,0,0,0
+"1120","Intestinal hexose absorption",8,5,0,0,0,0,0,0
+"139","Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",7,6,0,0,0,0,0,0
+"225","Retrograde neurotrophin signalling",7,8,0,0,0,0,0,0
+"287","Vitamin D (calciferol) metabolism",7,5,0,0,0,0,0,0
+"410","Phosphorylated REL is cleaved by and dissociates from DREDD",7,5,0,0,0,0,0,0
+"432","EGFR Transactivation by Gastrin",7,8,0,0,0,0,0,0
+"447","Establishment of Sister Chromatid Cohesion",7,8,0,0,0,0,0,0
+"488","SUMOylation of transcription factors",7,5,0,0,0,0,0,0
+"503","Activation of RAC1:GTP by FZ:DSH complex",7,8,0,0,0,0,0,0
+"660","Synthesis of UDP-N-acetyl-glucosamine",7,7,0,0,0,0,0,0
+"675","Activation of the AP-1 family of transcription factors",7,8,0,0,0,0,0,0
+"821","MAPK6/MAPK4 signaling",7,8,0,0,0,0,0,0
+"830","Homology Directed Repair",7,7,0,0,0,0,0,0
+"833","HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)",7,7,0,0,0,0,0,0
+"909","Removal of the Flap Intermediate",7,8,0,0,0,0,0,0
+"910","Processive synthesis on the lagging strand",7,8,0,0,0,0,0,0
+"911","Lagging Strand Synthesis",7,8,0,0,0,0,0,0
+"912","DNA strand elongation",7,8,0,0,0,0,0,0
+"1034","Gastrin-CREB signalling pathway via PKC and MAPK",7,8,0,0,0,0,0,0
+"30","Neurotransmitter receptors and postsynaptic signal transmission",6,7,0,0,0,0,0,0
+"39","Inhibition of replication initiation of damaged DNA by RB1/E2F1",6,5,0,0,0,0,0,0
+"40","E2F mediated regulation of DNA replication",6,5,0,0,0,0,0,0
+"58","Erythrocytes take up carbon dioxide and release oxygen",6,7,0,0,0,0,0,0
+"60","Erythrocytes take up oxygen and release carbon dioxide",6,7,0,0,0,0,0,0
+"97","Acyl chain remodelling of PC",6,4,0,0,0,0,0,0
+"99","Acyl chain remodelling of PE",6,4,0,0,0,0,0,0
+"101","Synthesis of PA",6,5,0,0,0,0,0,0
+"123","Eukaryotic Translation Elongation",6,5,0,0,0,0,0,0
+"124","Signaling by NOTCH",6,5,0,0,0,0,0,0
+"160","ChREBP activates metabolic gene expression",6,5,0,0,0,0,0,0
+"296","Signaling by NOTCH1",6,5,0,0,0,0,0,0
+"326","CS/DS degradation",6,5,0,0,0,0,0,0
+"398","Activated NOTCH1 Transmits Signal to the Nucleus",6,5,0,0,0,0,0,0
+"433","The retinoid cycle in cones (daylight vision)",6,5,0,0,0,0,0,0
+"514","Breakdown of the nuclear lamina",6,4,0,0,0,0,0,0
+"532","Unfolded Protein Response (UPR)",6,7,0,0,0,0,0,0
+"542","Costimulation by the CD28 family",6,7,0,0,0,0,0,0
+"544","CD28 co-stimulation",6,7,0,0,0,0,0,0
+"545","CD28 dependent PI3K/Akt signaling",6,7,0,0,0,0,0,0
+"547","Alpha-oxidation of phytanate",6,4,0,0,0,0,0,0
+"572","EPH-ephrin mediated repulsion of cells",6,4,0,0,0,0,0,0
+"593","Platelet homeostasis",6,7,0,0,0,0,0,0
+"689","Activation of kainate receptors upon glutamate binding",6,7,0,0,0,0,0,0
+"706","Presynaptic function of Kainate receptors",6,7,0,0,0,0,0,0
+"709","WNT5A-dependent internalization of FZD4",6,5,0,0,0,0,0,0
+"837","Processing of DNA double-strand break ends",6,5,0,0,0,0,0,0
+"887","PI5P Regulates TP53 Acetylation",6,6,0,0,0,0,0,0
+"1037","Wax and plasmalogen biosynthesis",6,5,0,0,0,0,0,0
+"1038","PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1",6,4,0,0,0,0,0,0
+"1042","Lysosomal oligosaccharide catabolism",6,7,0,0,0,0,0,0
+"1076","RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known",6,7,0,0,0,0,0,0
+"1109","LDL clearance",6,7,0,0,0,0,0,0
+"1111","Plasma lipoprotein clearance",6,7,0,0,0,0,0,0
+"1112","Phenylalanine metabolism",6,5,0,0,0,0,0,0
+"1188","Estrogen-stimulated signaling through PRKCZ",6,4,0,0,0,0,0,0
+"1189","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",6,6,0,0,0,0,0,0
+"1191","Wax biosynthesis",6,5,0,0,0,0,0,0
+"92","Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",5,4,0,0,0,0,0,0
+"113","G0 and Early G1",5,6,0,0,0,0,0,0
+"310","Signaling by BMP",5,5,0,0,0,0,0,0
+"320","Keratan sulfate degradation",5,6,0,0,0,0,0,0
+"359","JAK/STAT pathway",5,5,0,0,0,0,0,0
+"388","Dephosphorylation by PTP61F phosphatases",5,5,0,0,0,0,0,0
+"462","Caspase-mediated cleavage of cytoskeletal proteins",5,6,0,0,0,0,0,0
+"512","Apoptotic cleavage of cell adhesion  proteins",5,6,0,0,0,0,0,0
+"652","Signal transduction by L1",5,5,0,0,0,0,0,0
+"703","SUMOylation of immune response proteins",5,4,0,0,0,0,0,0
+"727","Synthesis of diphthamide-EEF2",5,6,0,0,0,0,0,0
+"928","p53-Dependent G1 DNA Damage Response",5,7,0,0,0,0,0,0
+"929","p53-Dependent G1/S DNA damage checkpoint",5,7,0,0,0,0,0,0
+"996","Insulin receptor signalling cascade",5,7,0,0,0,0,0,0
+"997","Signaling by Insulin receptor",5,7,0,0,0,0,0,0
+"1045","TBC/RABGAPs",5,8,0,0,0,0,0,0
+"1070","Receptor Mediated Mitophagy",5,6,0,0,0,0,0,0
+"35","RAF-independent MAPK1/3 activation",4,5,0,0,0,0,0,0
+"41","Disinhibition of SNARE formation",4,4,0,0,0,0,0,0
+"48","Signaling by NODAL",4,3,0,0,0,0,0,0
+"61","SHC1 events in ERBB2 signaling",4,5,0,0,0,0,0,0
+"68","Mitochondrial protein import",4,5,0,0,0,0,0,0
+"95","Collagen formation",4,4,0,0,0,0,0,0
+"98","Acyl chain remodeling of CL",4,3,0,0,0,0,0,0
+"121","Polo-like kinase mediated events",4,5,0,0,0,0,0,0
+"138","Removal of aminoterminal propeptides from gamma-carboxylated proteins",4,5,0,0,0,0,0,0
+"142","Degradation of cysteine and homocysteine",4,7,0,0,0,0,0,0
+"169","Regulation of cholesterol biosynthesis by SREBP (SREBF)",4,4,0,0,0,0,0,0
+"234","SHC1 events in EGFR signaling",4,5,0,0,0,0,0,0
+"289","Vitamin B1 (thiamin) metabolism",4,5,0,0,0,0,0,0
+"299","AKT phosphorylates targets in the nucleus",4,5,0,0,0,0,0,0
+"317","Assembly of collagen fibrils and other multimeric structures",4,4,0,0,0,0,0,0
+"354","Phosphorylation of ARR",4,5,0,0,0,0,0,0
+"370","Formation of the trans-membrane 'signalling complex'",4,5,0,0,0,0,0,0
+"380","Assembly of receptor complex",4,5,0,0,0,0,0,0
+"435","Crosslinking of collagen fibrils",4,4,0,0,0,0,0,0
+"459","DNA Damage/Telomere Stress Induced Senescence",4,6,0,0,0,0,0,0
+"460","Regulation of PLK1 Activity at G2/M Transition",4,6,0,0,0,0,0,0
+"496","HSF1 activation",4,4,0,0,0,0,0,0
+"507","Regulation of non-muscle Myosin II",4,5,0,0,0,0,0,0
+"554","Hippo/Warts pathway",4,5,0,0,0,0,0,0
+"555","DS ligand bound to FT receptor",4,5,0,0,0,0,0,0
+"612","Sodium/Calcium exchangers",4,5,0,0,0,0,0,0
+"619","Organic anion transporters",4,4,0,0,0,0,0,0
+"673","activated TAK1 mediates p38 MAPK activation",4,5,0,0,0,0,0,0
+"731","Release of Hh-Np from the secreting cell",4,3,0,0,0,0,0,0
+"760","RHO GTPases activate PKNs",4,5,0,0,0,0,0,0
+"772","Fructose biosynthesis",4,3,0,0,0,0,0,0
+"775","Downstream signaling of activated FGFR1",4,5,0,0,0,0,0,0
+"788","Downstream signaling of activated FGFR4",4,5,0,0,0,0,0,0
+"803","Formation of xylulose-5-phosphate",4,4,0,0,0,0,0,0
+"925","G2/M DNA replication checkpoint",4,4,0,0,0,0,0,0
+"942","Fructose catabolism",4,4,0,0,0,0,0,0
+"943","Galactose catabolism",4,4,0,0,0,0,0,0
+"971","Eukaryotic Translation Termination",4,4,0,0,0,0,0,0
+"995","Signal attenuation",4,5,0,0,0,0,0,0
+"998","Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex",4,6,0,0,0,0,0,0
+"1009","Response to elevated platelet cytosolic Ca2+",4,4,0,0,0,0,0,0
+"1051","Reelin signalling pathway",4,5,0,0,0,0,0,0
+"1174","FLT3 Signaling",4,6,0,0,0,0,0,0
+"1179","FOXO-mediated transcription",4,5,0,0,0,0,0,0
+"59","Methionine salvage pathway",3,4,0,0,0,0,0,0
+"62","SHC1 events in ERBB4 signaling",3,4,0,0,0,0,0,0
+"115","Methylation",3,4,0,0,0,0,0,0
+"116","Cytosolic sulfonation of small molecules",3,4,0,0,0,0,0,0
+"136","Gamma-carboxylation of protein precursors",3,4,0,0,0,0,0,0
+"146","Golgi Cisternae Pericentriolar Stack Reorganization",3,4,0,0,0,0,0,0
+"183","Signalling to RAS",3,4,0,0,0,0,0,0
+"193","NOD1/2 Signaling Pathway",3,4,0,0,0,0,0,0
+"194","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",3,4,0,0,0,0,0,0
+"202","p38MAPK events",3,4,0,0,0,0,0,0
+"212","Transport and synthesis of PAPS",3,4,0,0,0,0,0,0
+"230","GRB2 events in EGFR signaling",3,4,0,0,0,0,0,0
+"232","DARPP-32 events",3,4,0,0,0,0,0,0
+"246","Synthesis of IPs in the nucleus",3,3,0,0,0,0,0,0
+"253","Signalling to ERKs",3,4,0,0,0,0,0,0
+"257","Heme degradation",3,3,0,0,0,0,0,0
+"259","FGFR3 ligand binding and activation",3,4,0,0,0,0,0,0
+"260","FGFR3c ligand binding and activation",3,4,0,0,0,0,0,0
+"291","Vitamin B2 (riboflavin) metabolism",3,3,0,0,0,0,0,0
+"311","Signaling by ALK",3,4,0,0,0,0,0,0
+"313","WNT mediated activation of DVL",3,4,0,0,0,0,0,0
+"382","Metabolism of amine-derived hormones",3,5,0,0,0,0,0,0
+"406","Hyaluronan metabolism",3,4,0,0,0,0,0,0
+"419","Hyaluronan uptake and degradation",3,4,0,0,0,0,0,0
+"420","Activation of CI",3,4,0,0,0,0,0,0
+"493","Glycogen synthesis",3,4,0,0,0,0,0,0
+"530","ATF6 (ATF6-alpha) activates chaperones",3,3,0,0,0,0,0,0
+"531","PERK regulates gene expression",3,4,0,0,0,0,0,0
+"567","Signal amplification",3,4,0,0,0,0,0,0
+"583","Sialic acid metabolism",3,4,0,0,0,0,0,0
+"594","Platelet calcium homeostasis",3,3,0,0,0,0,0,0
+"596","ADP signalling through P2Y purinoceptor 1",3,4,0,0,0,0,0,0
+"628","Platelet sensitization by LDL",3,4,0,0,0,0,0,0
+"657","Synthesis of Dolichyl-phosphate",3,5,0,0,0,0,0,0
+"707","Pyrimidine biosynthesis",3,3,0,0,0,0,0,0
+"721","Myogenesis",3,4,0,0,0,0,0,0
+"776","SHC-mediated cascade:FGFR1",3,4,0,0,0,0,0,0
+"778","FRS-mediated FGFR1 signaling",3,4,0,0,0,0,0,0
+"780","Downstream signaling of activated FGFR2",3,4,0,0,0,0,0,0
+"781","SHC-mediated cascade:FGFR2",3,4,0,0,0,0,0,0
+"783","SHC-mediated cascade:FGFR3",3,4,0,0,0,0,0,0
+"785","Downstream signaling of activated FGFR3",3,4,0,0,0,0,0,0
+"787","FRS-mediated FGFR4 signaling",3,4,0,0,0,0,0,0
+"789","SHC-mediated cascade:FGFR4",3,4,0,0,0,0,0,0
+"824","Josephin domain DUBs",3,4,0,0,0,0,0,0
+"856","Glycine degradation",3,4,0,0,0,0,0,0
+"861","TP53 Regulates Transcription of Cell Cycle Genes",3,4,0,0,0,0,0,0
+"871","TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest",3,4,0,0,0,0,0,0
+"876","Regulation of TP53 Activity through Methylation",3,4,0,0,0,0,0,0
+"878","Metabolism of fat-soluble vitamins",3,4,0,0,0,0,0,0
+"1023","Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA",3,3,0,0,0,0,0,0
+"1033","Interconversion of 2-oxoglutarate and 2-hydroxyglutarate",3,3,0,0,0,0,0,0
+"1060","RAB geranylgeranylation",3,3,0,0,0,0,0,0
+"1104","Tyrosine catabolism",3,5,0,0,0,0,0,0
+"1183","Regulation of FOXO transcriptional activity by acetylation",3,4,0,0,0,0,0,0
+"1203","STAT3 nuclear events downstream of ALK signaling",3,4,0,0,0,0,0,0
+"1221","Retinoid metabolism and transport",3,4,0,0,0,0,0,0
+"1225","Termination of O-glycan biosynthesis",3,4,0,0,0,0,0,0
+"1226","Serine biosynthesis",3,4,0,0,0,0,0,0
+"5","MAPK3 (ERK1) activation",2,3,0,0,0,0,0,0
+"91","Signaling by SCF-KIT",2,2,0,0,0,0,0,0
+"105","Synthesis of PI",2,3,0,0,0,0,0,0
+"117","Glucuronidation",2,3,0,0,0,0,0,0
+"128","Mitochondrial biogenesis",2,3,0,0,0,0,0,0
+"141","Sulfide oxidation to sulfate",2,4,0,0,0,0,0,0
+"148","Synthesis of glycosylphosphatidylinositol (GPI)",2,3,0,0,0,0,0,0
+"150","Post-translational modification: synthesis of GPI-anchored proteins",2,3,0,0,0,0,0,0
+"159","Insulin effects increased synthesis of Xylulose-5-Phosphate",2,2,0,0,0,0,0,0
+"168","Inhibition of TSC complex formation by PKB",2,3,0,0,0,0,0,0
+"204","Formation of the active cofactor, UDP-glucuronate",2,3,0,0,0,0,0,0
+"282","GRB2 events in ERBB2 signaling",2,3,0,0,0,0,0,0
+"303","Vitamin B5 (pantothenate) metabolism",2,4,0,0,0,0,0,0
+"305","CREB phosphorylation",2,3,0,0,0,0,0,0
+"316","Metabolism of nitric oxide: NOS3 activation and regulation",2,2,0,0,0,0,0,0
+"322","Dermatan sulfate biosynthesis",2,3,0,0,0,0,0,0
+"331","Signaling by Hippo",2,3,0,0,0,0,0,0
+"336","eNOS activation",2,2,0,0,0,0,0,0
+"344","Hypusinylation",2,3,0,0,0,0,0,0
+"405","Ubiquinol biosynthesis",2,3,0,0,0,0,0,0
+"417","Transcriptional activation of mitochondrial biogenesis",2,3,0,0,0,0,0,0
+"423","Synthesis of Prostaglandins (PG) and Thromboxanes (TX)",2,3,0,0,0,0,0,0
+"474","Nuclear Envelope (NE) Reassembly",2,4,0,0,0,0,0,0
+"479","SUMO is proteolytically processed",2,3,0,0,0,0,0,0
+"487","Processing and activation of SUMO",2,3,0,0,0,0,0,0
+"558","Beta-oxidation of very long chain fatty acids",2,3,0,0,0,0,0,0
+"559","Chaperonin-mediated protein folding",2,3,0,0,0,0,0,0
+"562","Protein folding",2,3,0,0,0,0,0,0
+"570","EPHA-mediated growth cone collapse",2,3,0,0,0,0,0,0
+"607","Bicarbonate transporters",2,2,0,0,0,0,0,0
+"614","Small interfering RNA (siRNA) biogenesis",2,3,0,0,0,0,0,0
+"676","Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA",2,3,0,0,0,0,0,0
+"678","Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",2,3,0,0,0,0,0,0
+"782","FRS-mediated FGFR2 signaling",2,3,0,0,0,0,0,0
+"784","FRS-mediated FGFR3 signaling",2,3,0,0,0,0,0,0
+"812","Negative feedback regulation of MAPK pathway",2,3,0,0,0,0,0,0
+"859","GDP-fucose biosynthesis",2,3,0,0,0,0,0,0
+"889","Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding",2,3,0,0,0,0,0,0
+"898","cell division",2,3,0,0,0,0,0,0
+"927","Stabilization of p53",2,3,0,0,0,0,0,0
+"944","Urea cycle",2,3,0,0,0,0,0,0
+"950","Ethanol oxidation",2,3,0,0,0,0,0,0
+"993","Purine salvage",2,3,0,0,0,0,0,0
+"1016","Ketone body catabolism",2,3,0,0,0,0,0,0
+"1018","Beta oxidation of myristoyl-CoA to lauroyl-CoA",2,3,0,0,0,0,0,0
+"1021","Beta oxidation of palmitoyl-CoA to myristoyl-CoA",2,3,0,0,0,0,0,0
+"1035","Synthesis of PIPs in the nucleus",2,2,0,0,0,0,0,0
+"1050","Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors",2,2,0,0,0,0,0,0
+"1056","Activation of the TFAP2 (AP-2) family of transcription factors",2,2,0,0,0,0,0,0
+"1139","RHOBTB2 GTPase cycle",2,3,0,0,0,0,0,0
+"1171","Molybdenum cofactor biosynthesis",2,4,0,0,0,0,0,0
+"1193","N-glycan trimming and elongation in the cis-Golgi",2,3,0,0,0,0,0,0
+"1195","EML4 and NUDC in mitotic spindle formation",2,2,0,0,0,0,0,0
+"1205","RHOBTB GTPase Cycle",2,3,0,0,0,0,0,0
+"4","PI3K Cascade",1,2,0,0,0,0,0,0
+"10","POLB-Dependent Long Patch Base Excision Repair",1,2,0,0,0,0,0,0
+"11","Resolution of AP sites via the multiple-nucleotide patch replacement pathway",1,2,0,0,0,0,0,0
+"34","IRS-mediated signalling",1,2,0,0,0,0,0,0
+"143","Cysteine formation from homocysteine",1,2,0,0,0,0,0,0
+"166","Activation of PKB",1,2,0,0,0,0,0,0
+"218","Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase",1,2,0,0,0,0,0,0
+"248","Regulation of beta-cell development",1,2,0,0,0,0,0,0
+"265","Androgen biosynthesis",1,2,0,0,0,0,0,0
+"268","Axonal growth inhibition (RHOA activation)",1,2,0,0,0,0,0,0
+"271","p75NTR regulates axonogenesis",1,2,0,0,0,0,0,0
+"286","Coenzyme A biosynthesis",1,2,0,0,0,0,0,0
+"379","Formation and transport of the N-HH ligand",1,2,0,0,0,0,0,0
+"383","Catecholamine biosynthesis",1,2,0,0,0,0,0,0
+"384","Serotonin and melatonin biosynthesis",1,2,0,0,0,0,0,0
+"385","Thyroxine biosynthesis",1,2,0,0,0,0,0,0
+"389","STAT92E dimer dephosphorylated in the nucleus and transported to the cytosol",1,2,0,0,0,0,0,0
+"390","Regulation of gene expression in beta cells",1,2,0,0,0,0,0,0
+"394","AKT-mediated inactivation of FOXO1A",1,2,0,0,0,0,0,0
+"438","Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",1,2,0,0,0,0,0,0
+"440","IGF1R signaling cascade",1,2,0,0,0,0,0,0
+"441","IRS-related events triggered by IGF1R",1,2,0,0,0,0,0,0
+"445","MASTL Facilitates Mitotic Progression",1,2,0,0,0,0,0,0
+"458","Oncogene Induced Senescence",1,2,0,0,0,0,0,0
+"473","Initiation of Nuclear Envelope (NE) Reformation",1,2,0,0,0,0,0,0
+"624","mRNA decay by 3' to 5' exoribonuclease",1,2,0,0,0,0,0,0
+"659","Synthesis of GDP-mannose",1,2,0,0,0,0,0,0
+"674","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",1,2,0,0,0,0,0,0
+"681","KSRP (KHSRP) binds and destabilizes mRNA",1,2,0,0,0,0,0,0
+"763","RHO GTPases Activate ROCKs",1,2,0,0,0,0,0,0
+"768","TP53 Regulates Transcription of Cell Death Genes",1,2,0,0,0,0,0,0
+"815","Protein repair",1,2,0,0,0,0,0,0
+"820","HDR through Homologous Recombination (HRR)",1,2,0,0,0,0,0,0
+"835","Homologous DNA Pairing and Strand Exchange",1,2,0,0,0,0,0,0
+"838","Presynaptic phase of homologous DNA pairing and strand exchange",1,2,0,0,0,0,0,0
+"858","Interleukin-4 and Interleukin-13 signaling",1,2,0,0,0,0,0,0
+"866","Antimicrobial peptides",1,2,0,0,0,0,0,0
+"867","TP53 Regulates Transcription of Genes Involved in Cytochrome C Release",1,2,0,0,0,0,0,0
+"875","Regulation of TP53 Activity through Association with Co-factors",1,2,0,0,0,0,0,0
+"891","CDC6 association with the ORC:origin complex",1,2,0,0,0,0,0,0
+"896","Mitotic Metaphase/Anaphase Transition",1,2,0,0,0,0,0,0
+"984","Base Excision Repair",1,2,0,0,0,0,0,0
+"989","Resolution of Abasic Sites (AP sites)",1,2,0,0,0,0,0,0
+"1022","Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA",1,2,0,0,0,0,0,0
+"1024","Beta oxidation of octanoyl-CoA to hexanoyl-CoA",1,2,0,0,0,0,0,0
+"1025","Beta oxidation of hexanoyl-CoA to butanoyl-CoA",1,2,0,0,0,0,0,0
+"1026","Beta oxidation of butanoyl-CoA to acetyl-CoA",1,2,0,0,0,0,0,0
+"1031","Interferon gamma signaling",1,2,0,0,0,0,0,0
+"1032","Regulation of IFNG signaling",1,2,0,0,0,0,0,0
+"1095","Transcriptional Regulation by E2F6",1,2,0,0,0,0,0,0
+"1146","Biosynthesis of D-series resolvins",1,2,0,0,0,0,0,0
+"1147","Biosynthesis of DHA-derived SPMs",1,2,0,0,0,0,0,0
+"1148","Biosynthesis of specialized proresolving mediators (SPMs)",1,2,0,0,0,0,0,0
+"1149","Biosynthesis of EPA-derived SPMs",1,2,0,0,0,0,0,0
+"1150","Biosynthesis of E-series 18(S)-resolvins",1,2,0,0,0,0,0,0
+"1161","Interferon Signaling",1,2,0,0,0,0,0,0
+"1163","Degradation of GABA",1,2,0,0,0,0,0,0
+"1180","Regulation of localization of FOXO transcription factors",1,2,0,0,0,0,0,0
+"1181","Postmitotic nuclear pore complex (NPC) reformation",1,2,0,0,0,0,0,0
+"1196","Vitamins B6 activation to pyridoxal phosphate",1,2,0,0,0,0,0,0
+"1219","N-glycan antennae elongation in the medial/trans-Golgi",1,2,0,0,0,0,0,0
+"1220","Reactions specific to the complex N-glycan synthesis pathway",1,2,0,0,0,0,0,0
+"1234","Antigen activates B Cell Receptor (BCR) leading to generation of second messengers",1,2,0,0,0,0,0,0
+"3","Intrinsic Pathway for Apoptosis",0,0,0,0,0,0,0,0
+"6","Translesion synthesis by REV1",0,0,0,0,0,0,0,0
+"13","TOR signaling pathway",0,0,0,0,0,0,0,0
+"15","SLBP independent Processing of Histone Pre-mRNAs",0,0,0,0,0,0,0,0
+"17","SMAC, XIAP-regulated apoptotic response",0,0,0,0,0,0,0,0
+"18","Apoptotic factor-mediated response",0,0,0,0,0,0,0,0
+"20","PKA-mediated phosphorylation of CREB",0,0,0,0,0,0,0,0
+"21","CaMK IV-mediated phosphorylation of CREB",0,0,0,0,0,0,0,0
+"28","Presynaptic depolarization and calcium channel opening",0,0,0,0,0,0,0,0
+"33","Formation of RNA Pol II elongation complex",0,0,0,0,0,0,0,0
+"36","MAPK1 (ERK2) activation",0,0,0,0,0,0,0,0
+"37","SOS-mediated signalling",0,0,0,0,0,0,0,0
+"43","Platelet degranulation",0,0,0,0,0,0,0,0
+"46","ISG15 antiviral mechanism",0,0,0,0,0,0,0,0
+"47","Antiviral mechanism by IFN-stimulated genes",0,0,0,0,0,0,0,0
+"51","Regulation of gene expression by Hypoxia-inducible Factor",0,0,0,0,0,0,0,0
+"55","Cross-presentation of particulate exogenous antigens (phagosomes)",0,0,0,0,0,0,0,0
+"56","Antigen processing-Cross presentation",0,0,0,0,0,0,0,0
+"57","Cross-presentation of soluble exogenous antigens (endosomes)",0,0,0,0,0,0,0,0
+"66","Interleukin-7 signaling",0,0,0,0,0,0,0,0
+"72","Activation of G protein gated Potassium channels",0,0,0,0,0,0,0,0
+"73","G protein gated Potassium channels",0,0,0,0,0,0,0,0
+"74","Inwardly rectifying K+ channels",0,0,0,0,0,0,0,0
+"76","Voltage gated Potassium channels",0,0,0,0,0,0,0,0
+"77","Tandem pore domain potassium channels",0,0,0,0,0,0,0,0
+"78","TWIK-releated acid-sensitive K+ channel (TASK)",0,0,0,0,0,0,0,0
+"81","ABC transporters in lipid homeostasis",0,0,0,0,0,0,0,0
+"83","Extrinsic Pathway of Fibrin Clot Formation",0,0,0,0,0,0,0,0
+"84","Intrinsic Pathway of Fibrin Clot Formation",0,0,0,0,0,0,0,0
+"85","Common Pathway of Fibrin Clot Formation",0,0,0,0,0,0,0,0
+"86","Formation of Fibrin Clot (Clotting Cascade)",0,0,0,0,0,0,0,0
+"87","Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components",0,0,0,0,0,0,0,0
+"88","Inactivation of APC/C via direct inhibition of the APC/C complex",0,0,0,0,0,0,0,0
+"111","Cell-Cell communication",0,0,0,0,0,0,0,0
+"119","Elastic fibre formation",0,0,0,0,0,0,0,0
+"122","L13a-mediated translational silencing of Ceruloplasmin expression",0,0,0,0,0,0,0,0
+"125","Telomere Maintenance",0,0,0,0,0,0,0,0
+"126","Gap junction trafficking and regulation",0,0,0,0,0,0,0,0
+"137","Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus",0,0,0,0,0,0,0,0
+"147","Synthesis of dolichyl-phosphate mannose",0,0,0,0,0,0,0,0
+"152","Formation of ATP by chemiosmotic coupling",0,0,0,0,0,0,0,0
+"153","Mitochondrial transcription initiation",0,0,0,0,0,0,0,0
+"155","Glucagon signaling in metabolic regulation",0,0,0,0,0,0,0,0
+"156","PKA activation",0,0,0,0,0,0,0,0
+"157","AMPK inhibits chREBP transcriptional activation activity",0,0,0,0,0,0,0,0
+"165","PKA activation in glucagon signalling",0,0,0,0,0,0,0,0
+"182","Initial triggering of complement",0,0,0,0,0,0,0,0
+"196","DDX58/IFIH1-mediated induction of interferon-alpha/beta",0,0,0,0,0,0,0,0
+"197","Prolonged ERK activation events",0,0,0,0,0,0,0,0
+"199","Adenylate cyclase inhibitory pathway",0,0,0,0,0,0,0,0
+"201","Frs2-mediated activation",0,0,0,0,0,0,0,0
+"203","Telomere Extension By Telomerase",0,0,0,0,0,0,0,0
+"205","Alternative complement activation",0,0,0,0,0,0,0,0
+"214","Polymerase switching on the C-strand of the telomere",0,0,0,0,0,0,0,0
+"215","Telomere C-strand (Lagging Strand) Synthesis",0,0,0,0,0,0,0,0
+"224","Unwinding of DNA",0,0,0,0,0,0,0,0
+"231","SRP-dependent cotranslational protein targeting to membrane",0,0,0,0,0,0,0,0
+"233","GAB1 signalosome",0,0,0,0,0,0,0,0
+"235","Extension of Telomeres",0,0,0,0,0,0,0,0
+"239","Acetylcholine binding and downstream events",0,0,0,0,0,0,0,0
+"261","Gap junction trafficking",0,0,0,0,0,0,0,0
+"262","Gap junction degradation",0,0,0,0,0,0,0,0
+"269","p75NTR signals via NF-kB",0,0,0,0,0,0,0,0
+"279","Formation of annular gap junctions",0,0,0,0,0,0,0,0
+"281","Beta-catenin phosphorylation cascade",0,0,0,0,0,0,0,0
+"283","Cobalamin (Cbl, vitamin B12) transport and metabolism",0,0,0,0,0,0,0,0
+"285","Biotin transport and metabolism",0,0,0,0,0,0,0,0
+"297","PI3K/AKT activation",0,0,0,0,0,0,0,0
+"302","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",0,0,0,0,0,0,0,0
+"314","Formation of the beta-catenin:TCF transactivating complex",0,0,0,0,0,0,0,0
+"328","Calcineurin activates NFAT",0,0,0,0,0,0,0,0
+"335","YAP1- and WWTR1 (TAZ)-stimulated gene expression",0,0,0,0,0,0,0,0
+"337","NOSIP mediated eNOS trafficking",0,0,0,0,0,0,0,0
+"338","MicroRNA (miRNA) biogenesis",0,0,0,0,0,0,0,0
+"346","Phosphorylation of AXN and APC",0,0,0,0,0,0,0,0
+"349","Formation of the activated receptor complex",0,0,0,0,0,0,0,0
+"351","Formation of the activated STAT92E dimer and transport to the nucleus",0,0,0,0,0,0,0,0
+"352","Assembly of the 'signalling complexes'",0,0,0,0,0,0,0,0
+"356","Transcriptional activtion and repression of REL-68 target genes",0,0,0,0,0,0,0,0
+"357","Phosphorylation of ARM",0,0,0,0,0,0,0,0
+"358","Formation of the cytosolic BSK 'scaffolding complex'",0,0,0,0,0,0,0,0
+"361","Transport of ARM to the nucleus",0,0,0,0,0,0,0,0
+"362","Formation of the nuclear AP-1 transcription factor 'scaffolding complex'",0,0,0,0,0,0,0,0
+"364","Assembly of the 'destruction complex'",0,0,0,0,0,0,0,0
+"365","Transcription activation by ARM",0,0,0,0,0,0,0,0
+"366","Transcriptional activtion by AP-1 transcription factor",0,0,0,0,0,0,0,0
+"367","Formation of the PGN:PGRP-LC/LE receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"381","NF-kB is activated and signals survival",0,0,0,0,0,0,0,0
+"387","Transcriptional repression by nuclear factors",0,0,0,0,0,0,0,0
+"391","Basigin interactions",0,0,0,0,0,0,0,0
+"399","PRC2 methylates histones and DNA",0,0,0,0,0,0,0,0
+"402","Molecules associated with elastic fibres",0,0,0,0,0,0,0,0
+"407","Assembly of the PGN:PGRP-LC/LE receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"409","REL binds to DREDD in the PGN:PGRP-LC/LE receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"411","DL and DIF homodimers bind to TUB and phosphorylated PLL in the TL receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"412","DL and DIF homodimers complexed with CACT are all phosphorylated in the TL receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"413","Activated PLL kinase is autophosphorylated in the TL receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"414","Adaptor protein complex binds to TL receptor at the plasma membrane",0,0,0,0,0,0,0,0
+"415","Phosphorylated CACT, DL and DIF homodimers dissociate from the TL receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"416","PLL kinase binds to TUB in the TL receptor 'signalling complex'",0,0,0,0,0,0,0,0
+"418","Integrin cell surface interactions",0,0,0,0,0,0,0,0
+"428","TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)",0,0,0,0,0,0,0,0
+"442","SHC-related events triggered by IGF1R",0,0,0,0,0,0,0,0
+"448","Cohesin Loading onto Chromatin",0,0,0,0,0,0,0,0
+"449","Activation of the phototransduction cascade",0,0,0,0,0,0,0,0
+"463","Insulin processing",0,0,0,0,0,0,0,0
+"466","Role of LAT2/NTAL/LAB on calcium mobilization",0,0,0,0,0,0,0,0
+"475","Laminin interactions",0,0,0,0,0,0,0,0
+"476","Syndecan interactions",0,0,0,0,0,0,0,0
+"477","Non-integrin membrane-ECM interactions",0,0,0,0,0,0,0,0
+"478","ECM proteoglycans",0,0,0,0,0,0,0,0
+"483","HDACs deacetylate histones",0,0,0,0,0,0,0,0
+"484","PKMTs methylate histone lysines",0,0,0,0,0,0,0,0
+"498","Attenuation phase",0,0,0,0,0,0,0,0
+"500","Notch-HLH transcription pathway",0,0,0,0,0,0,0,0
+"501","Activation of RHO1 by FZ:DSH complex",0,0,0,0,0,0,0,0
+"502","Negative feedback loop regulates asymmetric localisation",0,0,0,0,0,0,0,0
+"504","Homo-/heterophilic binding of transmembrane components",0,0,0,0,0,0,0,0
+"505","RHO1 GTPase cycle",0,0,0,0,0,0,0,0
+"506","Formation and asymmetric localisation of transmembrane complexes",0,0,0,0,0,0,0,0
+"519","Class B/2 (Secretin family receptors)",0,0,0,0,0,0,0,0
+"525","Hormone ligand-binding receptors",0,0,0,0,0,0,0,0
+"533","Transcriptional regulation of white adipocyte differentiation",0,0,0,0,0,0,0,0
+"536","Olfactory Signaling Pathway",0,0,0,0,0,0,0,0
+"539","Nuclear Receptor transcription pathway",0,0,0,0,0,0,0,0
+"543","Receptor-type tyrosine-protein phosphatases",0,0,0,0,0,0,0,0
+"546","CD28 dependent Vav1 pathway",0,0,0,0,0,0,0,0
+"551","Subcellular localisation of D",0,0,0,0,0,0,0,0
+"552","Formation of the Hippo kinase cassette",0,0,0,0,0,0,0,0
+"553","Phosphorylation-dependent inhibition of YKI",0,0,0,0,0,0,0,0
+"556","DS ligand not bound to FT receptor",0,0,0,0,0,0,0,0
+"557","Transcriptional activation by YKI",0,0,0,0,0,0,0,0
+"560","Association of TriC/CCT with target proteins during biosynthesis",0,0,0,0,0,0,0,0
+"563","ADP signalling through P2Y purinoceptor 12",0,0,0,0,0,0,0,0
+"564","G beta:gamma signalling through PI3Kgamma",0,0,0,0,0,0,0,0
+"568","Prostacyclin signalling through prostacyclin receptor",0,0,0,0,0,0,0,0
+"574","G-protein beta:gamma signalling",0,0,0,0,0,0,0,0
+"575","Activation of AMPA receptors",0,0,0,0,0,0,0,0
+"576","Glutamate binding, activation of AMPA receptors and synaptic plasticity",0,0,0,0,0,0,0,0
+"578","SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion",0,0,0,0,0,0,0,0
+"581","Regulation of lipid metabolism by PPARalpha",0,0,0,0,0,0,0,0
+"591","Other semaphorin interactions",0,0,0,0,0,0,0,0
+"592","G beta:gamma signalling through PLC beta",0,0,0,0,0,0,0,0
+"595","G alpha (s) signalling events",0,0,0,0,0,0,0,0
+"598","G alpha (z) signalling events",0,0,0,0,0,0,0,0
+"601","Adherens junctions interactions",0,0,0,0,0,0,0,0
+"602","NCAM1 interactions",0,0,0,0,0,0,0,0
+"603","Cell-cell junction organization",0,0,0,0,0,0,0,0
+"615","Post-transcriptional silencing by small RNAs",0,0,0,0,0,0,0,0
+"618","Regulation of commissural axon pathfinding by SLIT and ROBO",0,0,0,0,0,0,0,0
+"620","Role of ABL in ROBO-SLIT signaling",0,0,0,0,0,0,0,0
+"621","Thromboxane signalling through TP receptor",0,0,0,0,0,0,0,0
+"626","GP1b-IX-V activation signalling",0,0,0,0,0,0,0,0
+"630","Transcription regulation of cwo gene",0,0,0,0,0,0,0,0
+"631","Nuclear import of PER and TIM",0,0,0,0,0,0,0,0
+"632","Transcription repression by PER and activation by PDP1",0,0,0,0,0,0,0,0
+"635","Transcription activation by CLK:CYC and repression by VRI",0,0,0,0,0,0,0,0
+"638","Lysosome Vesicle Biogenesis",0,0,0,0,0,0,0,0
+"639","Golgi Associated Vesicle Biogenesis",0,0,0,0,0,0,0,0
+"640","Proton-coupled monocarboxylate transport",0,0,0,0,0,0,0,0
+"643","Post NMDA receptor activation events",0,0,0,0,0,0,0,0
+"644","Unblocking of NMDA receptors, glutamate binding and activation",0,0,0,0,0,0,0,0
+"648","CREB1 phosphorylation through the activation of Adenylate Cyclase",0,0,0,0,0,0,0,0
+"649","CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde",0,0,0,0,0,0,0,0
+"650","Activation of NMDA receptors and postsynaptic events",0,0,0,0,0,0,0,0
+"651","Relaxin receptors",0,0,0,0,0,0,0,0
+"654","TAK1 activates NFkB by phosphorylation and activation of IKKs complex",0,0,0,0,0,0,0,0
+"655","Type I hemidesmosome assembly",0,0,0,0,0,0,0,0
+"662","Localization of the PINCH-ILK-PARVIN complex to focal adhesions",0,0,0,0,0,0,0,0
+"663","Cell-extracellular matrix interactions",0,0,0,0,0,0,0,0
+"664","Regulation of cytoskeletal remodeling and cell spreading by IPP complex components",0,0,0,0,0,0,0,0
+"666","Cell junction organization",0,0,0,0,0,0,0,0
+"668","Interleukin-1 processing",0,0,0,0,0,0,0,0
+"682","JNK signalling",0,0,0,0,0,0,0,0
+"683","Inhibition of actin polymerisation",0,0,0,0,0,0,0,0
+"686","Ionotropic activity of kainate receptors",0,0,0,0,0,0,0,0
+"687","Activation of Na-permeable kainate receptors",0,0,0,0,0,0,0,0
+"688","Activation of Ca-permeable Kainate Receptor",0,0,0,0,0,0,0,0
+"690","Phosphorylation-independent inhibition of YKI",0,0,0,0,0,0,0,0
+"695","Thrombin signalling through proteinase activated receptors (PARs)",0,0,0,0,0,0,0,0
+"701","Disassembly of the destruction complex and recruitment of AXIN to the membrane",0,0,0,0,0,0,0,0
+"702","Repression of WNT target genes",0,0,0,0,0,0,0,0
+"710","Interleukin-3, Interleukin-5 and GM-CSF signaling",0,0,0,0,0,0,0,0
+"718","Miscellaneous transport and binding events",0,0,0,0,0,0,0,0
+"735","Dephosphorylation of TIM",0,0,0,0,0,0,0,0
+"736","Mitochondrial translation elongation",0,0,0,0,0,0,0,0
+"742","Phase 0 - rapid depolarisation",0,0,0,0,0,0,0,0
+"743","Phase 2 - plateau phase",0,0,0,0,0,0,0,0
+"744","Phase 1 - inactivation of fast Na+ channels",0,0,0,0,0,0,0,0
+"756","BBSome-mediated cargo-targeting to cilium",0,0,0,0,0,0,0,0
+"757","Intraflagellar transport",0,0,0,0,0,0,0,0
+"761","Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3",0,0,0,0,0,0,0,0
+"762","RHO GTPases activate CIT",0,0,0,0,0,0,0,0
+"770","PCNA-Dependent Long Patch Base Excision Repair",0,0,0,0,0,0,0,0
+"777","PI-3K cascade:FGFR1",0,0,0,0,0,0,0,0
+"779","PI-3K cascade:FGFR2",0,0,0,0,0,0,0,0
+"786","PI-3K cascade:FGFR3",0,0,0,0,0,0,0,0
+"790","PI-3K cascade:FGFR4",0,0,0,0,0,0,0,0
+"799","Translesion synthesis by POLK",0,0,0,0,0,0,0,0
+"800","Translesion synthesis by POLI",0,0,0,0,0,0,0,0
+"801","Termination of translesion DNA synthesis",0,0,0,0,0,0,0,0
+"802","FGFRL1 modulation of FGFR1 signaling",0,0,0,0,0,0,0,0
+"805","RHO GTPases Activate Formins",0,0,0,0,0,0,0,0
+"806","RHO GTPases Activate Rhotekin and Rhophilins",0,0,0,0,0,0,0,0
+"808","RHO GTPases Activate NADPH Oxidases",0,0,0,0,0,0,0,0
+"819","HDR through MMEJ (alt-NHEJ)",0,0,0,0,0,0,0,0
+"823","UCH proteinases",0,0,0,0,0,0,0,0
+"826","Ovarian tumor domain proteases",0,0,0,0,0,0,0,0
+"829","Resolution of D-Loop Structures",0,0,0,0,0,0,0,0
+"831","Sensing of DNA Double Strand Breaks",0,0,0,0,0,0,0,0
+"834","Resolution of D-loop Structures through Holliday Junction Intermediates",0,0,0,0,0,0,0,0
+"839","Cargo concentration in the ER",0,0,0,0,0,0,0,0
+"842","Gap-filling DNA repair synthesis and ligation in GG-NER",0,0,0,0,0,0,0,0
+"848","Postsynaptic nicotinic acetylcholine receptors",0,0,0,0,0,0,0,0
+"849","Highly calcium permeable postsynaptic nicotinic acetylcholine receptors",0,0,0,0,0,0,0,0
+"850","RNA Polymerase II Pre-transcription Events",0,0,0,0,0,0,0,0
+"855","Fanconi Anemia Pathway",0,0,0,0,0,0,0,0
+"857","ERBB2 Regulates Cell Motility",0,0,0,0,0,0,0,0
+"862","Neurexins and neuroligins",0,0,0,0,0,0,0,0
+"863","Protein-protein interactions at synapses",0,0,0,0,0,0,0,0
+"864","TP53 Regulates Transcription of DNA Repair Genes",0,0,0,0,0,0,0,0
+"865","Complex I biogenesis",0,0,0,0,0,0,0,0
+"868","TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain",0,0,0,0,0,0,0,0
+"869","FGFR2 alternative splicing",0,0,0,0,0,0,0,0
+"870","TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest",0,0,0,0,0,0,0,0
+"881","COPI-mediated anterograde transport",0,0,0,0,0,0,0,0
+"884","Intra-Golgi traffic",0,0,0,0,0,0,0,0
+"890","Assembly of the ORC complex at the origin of replication",0,0,0,0,0,0,0,0
+"900","G2 Phase",0,0,0,0,0,0,0,0
+"902","DNA replication initiation",0,0,0,0,0,0,0,0
+"907","Polymerase switching",0,0,0,0,0,0,0,0
+"908","Leading Strand Synthesis",0,0,0,0,0,0,0,0
+"913","Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes",0,0,0,0,0,0,0,0
+"934","Mitotic Spindle Checkpoint",0,0,0,0,0,0,0,0
+"954","mRNA Capping",0,0,0,0,0,0,0,0
+"955","pre-mRNA splicing",0,0,0,0,0,0,0,0
+"956","U12 Dependent Splicing",0,0,0,0,0,0,0,0
+"957","mRNA Splicing",0,0,0,0,0,0,0,0
+"963","Translation initiation complex formation",0,0,0,0,0,0,0,0
+"964","Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",0,0,0,0,0,0,0,0
+"965","Formation of a pool of free 40S subunits",0,0,0,0,0,0,0,0
+"966","Formation of the ternary complex, and subsequently, the 43S complex",0,0,0,0,0,0,0,0
+"967","Ribosomal scanning and start codon recognition",0,0,0,0,0,0,0,0
+"968","GTP hydrolysis and joining of the 60S ribosomal subunit",0,0,0,0,0,0,0,0
+"975","RNA Polymerase I Transcription Initiation",0,0,0,0,0,0,0,0
+"976","RNA Polymerase I Promoter Escape",0,0,0,0,0,0,0,0
+"978","RNA Polymerase II Transcription Pre-Initiation And Promoter Opening",0,0,0,0,0,0,0,0
+"980","RNA Polymerase I Promoter Clearance",0,0,0,0,0,0,0,0
+"983","RNA Polymerase I Transcription",0,0,0,0,0,0,0,0
+"985","Chromosome Maintenance",0,0,0,0,0,0,0,0
+"990","RNA Polymerase III Transcription",0,0,0,0,0,0,0,0
+"999","Processing of Capped Intronless Pre-mRNA",0,0,0,0,0,0,0,0
+"1005","Transcription from mitochondrial promoters",0,0,0,0,0,0,0,0
+"1006","RNA Polymerase II Transcription Initiation",0,0,0,0,0,0,0,0
+"1012","RNA Polymerase III Transcription Initiation",0,0,0,0,0,0,0,0
+"1013","RNA Polymerase III Transcription Initiation From Type 1 Promoter",0,0,0,0,0,0,0,0
+"1014","RNA Polymerase III Transcription Initiation From Type 2 Promoter",0,0,0,0,0,0,0,0
+"1015","RNA Pol II CTD phosphorylation and interaction with CE",0,0,0,0,0,0,0,0
+"1027","Insulin receptor recycling",0,0,0,0,0,0,0,0
+"1028","SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs",0,0,0,0,0,0,0,0
+"1029","Processing of Intronless Pre-mRNAs",0,0,0,0,0,0,0,0
+"1040","Synaptic adhesion-like molecules",0,0,0,0,0,0,0,0
+"1043","Transcriptional Regulation by VENTX",0,0,0,0,0,0,0,0
+"1052","VLDLR internalisation and degradation",0,0,0,0,0,0,0,0
+"1055","Negative regulation of activity of TFAP2 (AP-2) family transcription factors",0,0,0,0,0,0,0,0
+"1057","TFAP2 (AP-2) family regulates transcription of cell cycle factors",0,0,0,0,0,0,0,0
+"1059","TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation",0,0,0,0,0,0,0,0
+"1067","RUNX1 regulates estrogen receptor mediated transcription",0,0,0,0,0,0,0,0
+"1071","RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function",0,0,0,0,0,0,0,0
+"1072","Aryl hydrocarbon receptor signalling",0,0,0,0,0,0,0,0
+"1075","RUNX1 regulates transcription of genes involved in differentiation of keratinocytes",0,0,0,0,0,0,0,0
+"1077","RUNX1 regulates transcription of genes involved in BCR signaling",0,0,0,0,0,0,0,0
+"1078","RUNX1 regulates transcription of genes involved in differentiation of myeloid cells",0,0,0,0,0,0,0,0
+"1079","RUNX1 regulates transcription of genes involved in interleukin signaling",0,0,0,0,0,0,0,0
+"1081","RUNX2 regulates osteoblast differentiation",0,0,0,0,0,0,0,0
+"1082","RUNX2 regulates bone development",0,0,0,0,0,0,0,0
+"1089","Cristae formation",0,0,0,0,0,0,0,0
+"1091","RUNX3 regulates WNT signaling",0,0,0,0,0,0,0,0
+"1093","RUNX3 regulates YAP1-mediated transcription",0,0,0,0,0,0,0,0
+"1108","Plasma lipoprotein remodeling",0,0,0,0,0,0,0,0
+"1110","LDL remodeling",0,0,0,0,0,0,0,0
+"1113","G beta:gamma signalling through BTK",0,0,0,0,0,0,0,0
+"1115","G beta:gamma signalling through CDC42",0,0,0,0,0,0,0,0
+"1122","Signaling by Erythropoietin",0,0,0,0,0,0,0,0
+"1130","Calnexin/calreticulin cycle",0,0,0,0,0,0,0,0
+"1138","RHOH GTPase cycle",0,0,0,0,0,0,0,0
+"1140","RHOT2 GTPase cycle",0,0,0,0,0,0,0,0
+"1141","RHOU GTPase cycle",0,0,0,0,0,0,0,0
+"1142","RHOBTB1 GTPase cycle",0,0,0,0,0,0,0,0
+"1143","RHOV GTPase cycle",0,0,0,0,0,0,0,0
+"1144","RHOT1 GTPase cycle",0,0,0,0,0,0,0,0
+"1145","Estrogen-dependent gene expression",0,0,0,0,0,0,0,0
+"1152","LXR-mediated signaling",0,0,0,0,0,0,0,0
+"1153","Erythropoietin activates Phosphoinositide-3-kinase (PI3K)",0,0,0,0,0,0,0,0
+"1154","Erythropoietin activates RAS",0,0,0,0,0,0,0,0
+"1155","LXRs regulate gene expression linked to cholesterol transport and efflux",0,0,0,0,0,0,0,0
+"1160","Regulation of signaling by CBL",0,0,0,0,0,0,0,0
+"1164","Endosomal Sorting Complex Required For Transport (ESCRT)",0,0,0,0,0,0,0,0
+"1166","Transferrin endocytosis and recycling",0,0,0,0,0,0,0,0
+"1168","TRAF6 mediated NF-kB activation",0,0,0,0,0,0,0,0
+"1173","Class I peroxisomal membrane protein import",0,0,0,0,0,0,0,0
+"1176","Insertion of tail-anchored proteins into the endoplasmic reticulum membrane",0,0,0,0,0,0,0,0
+"1177","Assembly and cell surface presentation of NMDA receptors",0,0,0,0,0,0,0,0
+"1182","Transcriptional regulation of granulopoiesis",0,0,0,0,0,0,0,0
+"1184","FOXO-mediated transcription of cell cycle genes",0,0,0,0,0,0,0,0
+"1185","Activation of RAC1 downstream of NMDARs",0,0,0,0,0,0,0,0
+"1186","EGR2 and SOX10-mediated initiation of Schwann cell myelination",0,0,0,0,0,0,0,0
+"1187","LXRs regulate gene expression to control bile acid homeostasis",0,0,0,0,0,0,0,0
+"1197","Drug-mediated inhibition of ERBB2 signaling",0,0,0,0,0,0,0,0
+"1200","Sealing of the nuclear envelope (NE) by ESCRT-III",0,0,0,0,0,0,0,0
+"1201","Inhibition of DNA recombination at telomere",0,0,0,0,0,0,0,0
+"1204","RHOBTB3 ATPase cycle",0,0,0,0,0,0,0,0
+"1208","Heme signaling",0,0,0,0,0,0,0,0
+"1213","Miro GTPase Cycle",0,0,0,0,0,0,0,0
+"1215","Sensory perception of taste",0,0,0,0,0,0,0,0
+"1216","Sensory perception of sweet, bitter, and umami (glutamate) taste",0,0,0,0,0,0,0,0
+"1223","Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)",0,0,0,0,0,0,0,0
+"1227","GABA receptor activation",0,0,0,0,0,0,0,0
+"1228","GABA B receptor activation",0,0,0,0,0,0,0,0
+"1232","Kinesins",0,0,0,0,0,0,0,0
+"1237","Activation of GABAB receptors",0,0,0,0,0,0,0,0
+"1238","Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits",0,0,0,0,0,0,0,0
+"1239","Neurotransmitter clearance",0,0,0,0,0,0,0,0
+"1240","Neurotransmitter uptake and metabolism In glial cells",0,0,0,0,0,0,0,0
+"1241","Effects of PIP2 hydrolysis",0,0,0,0,0,0,0,0
+"1242","HCN channels",0,0,0,0,0,0,0,0
+"1243","Mitochondrial ABC transporters",0,0,0,0,0,0,0,0
+"1244","Elevation of cytosolic Ca2+ levels",0,0,0,0,0,0,0,0
+"1245","Amine Oxidase reactions",0,0,0,0,0,0,0,0
+"1246","PAOs oxidise polyamines to amines",0,0,0,0,0,0,0,0
+"1247","Collagen degradation",0,0,0,0,0,0,0,0
+"1248","Reversible hydration of carbon dioxide",0,0,0,0,0,0,0,0
+"1249","Acyl chain remodelling of PS",0,0,0,0,0,0,0,0
+"1250","Acyl chain remodelling of PI",0,0,0,0,0,0,0,0
+"1251","Acyl chain remodelling of PG",0,0,0,0,0,0,0,0
+"1252","Synthesis of CL",0,0,0,0,0,0,0,0
+"1253","Synthesis of PS",0,0,0,0,0,0,0,0
+"1254","Hydrolysis of LPC",0,0,0,0,0,0,0,0
+"1255","Synthesis of PG",0,0,0,0,0,0,0,0
+"1256","Triglyceride catabolism",0,0,0,0,0,0,0,0
+"1257","Collagen biosynthesis and modifying enzymes",0,0,0,0,0,0,0,0
+"1258","Mitochondrial Uncoupling",0,0,0,0,0,0,0,0
+"1259","The proton buffering model",0,0,0,0,0,0,0,0
+"1260","STING mediated induction of host immune responses",0,0,0,0,0,0,0,0
+"1261","Synthesis of IPs in the ER lumen",0,0,0,0,0,0,0,0
+"1262","Digestion of dietary carbohydrate",0,0,0,0,0,0,0,0
+"1263","Digestion of dietary lipid",0,0,0,0,0,0,0,0
+"1264","Synthesis of bile acids and bile salts via 24-hydroxycholesterol",0,0,0,0,0,0,0,0
+"1265","Synthesis of bile acids and bile salts via 27-hydroxycholesterol",0,0,0,0,0,0,0,0
+"1266","Glucocorticoid biosynthesis",0,0,0,0,0,0,0,0
+"1267","Pregnenolone biosynthesis",0,0,0,0,0,0,0,0
+"1268","Generation of second messenger molecules",0,0,0,0,0,0,0,0
+"1269","Astrocytic Glutamate-Glutamine Uptake And Metabolism",0,0,0,0,0,0,0,0
+"1270","Cytochrome P450 - arranged by substrate type",0,0,0,0,0,0,0,0
+"1271","Vitamins",0,0,0,0,0,0,0,0
+"1272","Miscellaneous substrates",0,0,0,0,0,0,0,0
+"1273","Endogenous sterols",0,0,0,0,0,0,0,0
+"1274","Synthesis of Lipoxins (LX)",0,0,0,0,0,0,0,0
+"1275","Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)",0,0,0,0,0,0,0,0
+"1276","Abacavir metabolism",0,0,0,0,0,0,0,0
+"1277","Phosphate bond hydrolysis by NUDT proteins",0,0,0,0,0,0,0,0
+"1278","Electron transport from NADPH to Ferredoxin",0,0,0,0,0,0,0,0
+"1279","Selenoamino acid metabolism",0,0,0,0,0,0,0,0
+"1280","Selenocysteine synthesis",0,0,0,0,0,0,0,0
+"1281","STAT6-mediated induction of chemokines",0,0,0,0,0,0,0,0
+"1282","Agmatine biosynthesis",0,0,0,0,0,0,0,0
+"1283","Interconversion of polyamines",0,0,0,0,0,0,0,0
+"1284","Cytosolic tRNA aminoacylation",0,0,0,0,0,0,0,0
+"1285","tRNA Aminoacylation",0,0,0,0,0,0,0,0
+"1286","Mitochondrial tRNA aminoacylation",0,0,0,0,0,0,0,0
+"1287","Metabolism of serotonin",0,0,0,0,0,0,0,0
+"1288","Clearance of seratonin",0,0,0,0,0,0,0,0
+"1289","IRE1alpha activates chaperones",0,0,0,0,0,0,0,0
+"1290","NADPH regeneration",0,0,0,0,0,0,0,0
+"1291","Nitric oxide stimulates guanylate cyclase",0,0,0,0,0,0,0,0
+"1292","cGMP effects",0,0,0,0,0,0,0,0
+"1293","Arachidonate production from DAG",0,0,0,0,0,0,0,0
+"1294","Multifunctional anion exchangers",0,0,0,0,0,0,0,0
+"1295","Synthesis of dolichyl-phosphate-glucose",0,0,0,0,0,0,0,0
+"1296","Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)",0,0,0,0,0,0,0,0
+"1297","Organic cation transport",0,0,0,0,0,0,0,0
+"1298","Organic cation/anion/zwitterion transport",0,0,0,0,0,0,0,0
+"1299","Organic anion transport",0,0,0,0,0,0,0,0
+"1300","Phospholipase C-mediated cascade: FGFR1",0,0,0,0,0,0,0,0
+"1301","Phospholipase C-mediated cascade; FGFR4",0,0,0,0,0,0,0,0
+"1302","Choline catabolism",0,0,0,0,0,0,0,0
+"1303","Metal sequestration by antimicrobial proteins",0,0,0,0,0,0,0,0
+"1304","Keratinization",0,0,0,0,0,0,0,0
+"1305","Metabolism of vitamin K",0,0,0,0,0,0,0,0
+"1306","Formation of the cornified envelope",0,0,0,0,0,0,0,0
+"1307","Glycerophospholipid catabolism",0,0,0,0,0,0,0,0
+"1308","Proline catabolism",0,0,0,0,0,0,0,0
+"1309","Histidine catabolism",0,0,0,0,0,0,0,0
+"1310","Carnitine synthesis",0,0,0,0,0,0,0,0
+"1311","Pyrophosphate hydrolysis",0,0,0,0,0,0,0,0
+"1312","Transport of nucleotide sugars",0,0,0,0,0,0,0,0
+"1313","PRPP biosynthesis",0,0,0,0,0,0,0,0
+"1314","mRNA Editing: A to I Conversion",0,0,0,0,0,0,0,0
+"1315","mRNA Editing",0,0,0,0,0,0,0,0
+"1316","C6 deamination of adenosine",0,0,0,0,0,0,0,0
+"1317","Plasmalogen biosynthesis",0,0,0,0,0,0,0,0
+"1318","mitochondrial fatty acid beta-oxidation of unsaturated fatty acids",0,0,0,0,0,0,0,0
+"1319","Transport of organic anions",0,0,0,0,0,0,0,0
+"1320","Phosphate bond hydrolysis by NTPDase proteins",0,0,0,0,0,0,0,0
+"1321","GABA synthesis",0,0,0,0,0,0,0,0
+"1322","Reuptake of GABA",0,0,0,0,0,0,0,0
+"1323","Digestion",0,0,0,0,0,0,0,0
+"1324","Events associated with phagocytolytic activity of PMN cells",0,0,0,0,0,0,0,0
+"1325","Assembly of active LPL and LIPC lipase complexes",0,0,0,0,0,0,0,0
+"1326","HDL remodeling",0,0,0,0,0,0,0,0
+"1327","Alanine metabolism",0,0,0,0,0,0,0,0
+"1328","Lipid particle organization",0,0,0,0,0,0,0,0
+"1329","Intracellular oxygen transport",0,0,0,0,0,0,0,0
+"1330","OAS antiviral response",0,0,0,0,0,0,0,0
+"1331","Interleukin-38 signaling",0,0,0,0,0,0,0,0
+"1332","Interleukin-37 signaling",0,0,0,0,0,0,0,0
+"1333","Biosynthesis of protectins",0,0,0,0,0,0,0,0
+"1334","Biosynthesis of aspirin-triggered D-series resolvins",0,0,0,0,0,0,0,0
+"1335","Biosynthesis of E-series 18(R)-resolvins",0,0,0,0,0,0,0,0
+"1336","Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",0,0,0,0,0,0,0,0
+"1337","Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2",0,0,0,0,0,0,0,0
+"1338","Antigen Presentation: Folding, assembly and peptide loading of class I MHC",0,0,0,0,0,0,0,0
+"1339","Cleavage of the damaged pyrimidine",0,0,0,0,0,0,0,0
+"1340","Cleavage of the damaged purine",0,0,0,0,0,0,0,0
+"1341","Fertilization",0,0,0,0,0,0,0,0
+"1342","Ca activated K+ channels",0,0,0,0,0,0,0,0
+"1343","Classical Kir channels",0,0,0,0,0,0,0,0
+"1344","Potassium transport channels",0,0,0,0,0,0,0,0
+"1345","TWIK-related spinal cord K+ channel (TRESK)",0,0,0,0,0,0,0,0
+"1346","TWIK-related alkaline pH activated K+ channel (TALK)",0,0,0,0,0,0,0,0
+"1347","TWIK related potassium channel (TREK)",0,0,0,0,0,0,0,0
+"1348","Sperm Motility And Taxes",0,0,0,0,0,0,0,0
+"1349","Reproduction",0,0,0,0,0,0,0,0
+"1350","Peptide chain elongation",0,0,0,0,0,0,0,0
+"1351","The fatty acid cycling model",0,0,0,0,0,0,0,0
+"1352","FGFR1 ligand binding and activation",0,0,0,0,0,0,0,0
+"1353","FGFR1c ligand binding and activation",0,0,0,0,0,0,0,0
+"1354","Peptidoglycans (PGN) bind to a peptidoglycan recognition protein receptor, PGRP-LC/LE",0,0,0,0,0,0,0,0
+"1355","Peptidoglycan bound PGRP-LC/LE oligomerises",0,0,0,0,0,0,0,0
+"1356","TRP channels",0,0,0,0,0,0,0,0
+"1357","Amine ligand-binding receptors",0,0,0,0,0,0,0,0
+"1358","Clearance of dopamine",0,0,0,0,0,0,0,0
+"1359","Muscarinic acetylcholine receptors",0,0,0,0,0,0,0,0
+"1360","Histamine receptors",0,0,0,0,0,0,0,0
+"1361","Dopamine receptors",0,0,0,0,0,0,0,0
+"1362","Serotonin receptors",0,0,0,0,0,0,0,0
+"1363","Adrenoceptors",0,0,0,0,0,0,0,0
+"1364","Eicosanoid ligand-binding receptors",0,0,0,0,0,0,0,0
+"1365","Leukotriene receptors",0,0,0,0,0,0,0,0
+"1366","Prostanoid ligand receptors",0,0,0,0,0,0,0,0
+"1367","Adrenaline signalling through Alpha-2 adrenergic receptor",0,0,0,0,0,0,0,0
+"1368","Acetylcholine regulates insulin secretion",0,0,0,0,0,0,0,0
+"1369","Free fatty acids regulate insulin secretion",0,0,0,0,0,0,0,0
+"1370","Adenosine P1 receptors",0,0,0,0,0,0,0,0
+"1371","Nucleotide-like (purinergic) receptors",0,0,0,0,0,0,0,0
+"1372","Reduction of cytosolic Ca++ levels",0,0,0,0,0,0,0,0
+"1373","Opsins",0,0,0,0,0,0,0,0
+"1374","Class C/3 (Metabotropic glutamate/pheromone receptors)",0,0,0,0,0,0,0,0
+"1375","Cation-coupled Chloride cotransporters",0,0,0,0,0,0,0,0
+"1376","Sodium-coupled phosphate cotransporters",0,0,0,0,0,0,0,0
+"1377","Proton/oligopeptide cotransporters",0,0,0,0,0,0,0,0
+"1378","Proton-coupled neutral amino acid transporters",0,0,0,0,0,0,0,0
+"1379","Passive transport by Aquaporins",0,0,0,0,0,0,0,0
+"1380","Sodium-coupled sulphate, di- and tri-carboxylate transporters",0,0,0,0,0,0,0,0
+"1381","Intracellular metabolism of fatty acids regulates insulin secretion",0,0,0,0,0,0,0,0
+"1382","Zinc efflux and compartmentalization by the SLC30 family",0,0,0,0,0,0,0,0
+"1383","Zinc influx into cells by the SLC39 gene family",0,0,0,0,0,0,0,0
+"1384","Rhesus glycoproteins mediate ammonium transport.",0,0,0,0,0,0,0,0
+"1385","Oxidative demethylation of DNA",0,0,0,0,0,0,0,0
+"1386","Regulation of TLR by endogenous ligand",0,0,0,0,0,0,0,0
+"1387","Inflammasomes",0,0,0,0,0,0,0,0
+"1388","Ion influx/efflux at host-pathogen interface",0,0,0,0,0,0,0,0
+"1389","Creatine metabolism",0,0,0,0,0,0,0,0
+"1390","Depurination",0,0,0,0,0,0,0,0
+"1391","Depyrimidination",0,0,0,0,0,0,0,0
+"1392","Base-Excision Repair, AP Site Formation",0,0,0,0,0,0,0,0
+"1393","Transport of fatty acids",0,0,0,0,0,0,0,0
+"1394","The NLRP3 inflammasome",0,0,0,0,0,0,0,0
+"1395","Vitamin E",0,0,0,0,0,0,0,0
+"1396","ER Quality Control Compartment (ERQC)",0,0,0,0,0,0,0,0
+"1397","TYSND1 cleaves peroxisomal proteins",0,0,0,0,0,0,0,0
+"1398","Reactions specific to the hybrid N-glycan synthesis pathway",0,0,0,0,0,0,0,0
+"1399","N-Glycan antennae elongation",0,0,0,0,0,0,0,0
