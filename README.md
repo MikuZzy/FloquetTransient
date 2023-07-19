@@ -21,3 +21,5 @@ This is the code repository for the research paper *"Modeling Transient Changes 
  - 06_MultiLambda/\*.r
   
  - 07_Additional/\*.r
+
+Most R scripts include commands of setting working directory. One may change the directory *"~/R/novogene_trimmed/"* to the directory where this repo is cloned.
