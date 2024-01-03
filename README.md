@@ -22,4 +22,4 @@ This is the code repository for the research paper *"Modeling Transient Changes 
   
  - 07_Additional/\*.r
 
-Most R scripts include commands of setting working directory. One may change the directory *"~/R/novogene_trimmed/"* to the directory where this repo is cloned.
+Most R scripts include commands of setting working directory. One may change the directory *"~/R/novogene_trimmed/"* to the directory where this repo is cloned. Requirements for external libraries are specified in each script. In general, the `quantreg` and the `parallel` package are required for running the main algorithm, and plots are created with `ggplot2` and `igraph` packages. 
