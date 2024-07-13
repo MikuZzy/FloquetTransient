@@ -793,6 +793,7 @@ get_partialmodel_AICc <- function(data,type) {
 ## full models of all types
 get_fullmodel_AICc <- function(data,nretry,type) {
   n <- length(data$time)
+  fluc <- 0.01
   par_est_type <- get_guess_fullmodel_type(value = data$value, time = data$time,
                                            coarse = seq(0.04,1,0.03),
                                            fine = seq(0.04,1,0.01), type = type)
